@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/uva/uva.png">
+  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/b385127a134dc266ebd8ab3e8676d90bc53b0f74/assets/uva/uva.png">
 </p>
 
 # Sobre o Projeto
@@ -18,7 +18,12 @@ Este repositório é destinado ao grupo 9 - UVa online judge, nele será feito u
 
 |Foto | Matrícula | Nome | GitHub | E-mail|
 |:--:|:--:|:--:|:--:|:--:|
-| ![Joao](assets/integrantes/joao.png) | 18/0033620 | João Henrique | JoaoHenrique12 | joao.henrique1299@hotmail.com 
-| ![Paulo](assets/integrantes/paulo.png) | 18/0054554 | Paulo Batista| higton | 180054554@aluno.unb.br
-| ![Sergio](assets/integrantes/sergio.png) | 18/0037439 | Sérgio Cipriano | SergioAlmeidaCiprianoJr | sergiosacj@hotmail.com.br
-| ![Washington](assets/integrantes/washington.png) | 18/0029223 | Washington Bispo | WashingtonBispo | JuniorBispo515@gmail.com 
+| ![Joao][1] | 18/0033620 | João Henrique | JoaoHenrique12 | joao.henrique1299@hotmail.com 
+| ![Paulo][2] | 18/0054554 | Paulo Batista| higton | 180054554@aluno.unb.br
+| ![Sergio][3] | 18/0037439 | Sérgio Cipriano | SergioAlmeidaCiprianoJr | sergiosacj@hotmail.com.br
+| ![Washington][4] | 18/0029223 | Washington Bispo | WashingtonBispo | JuniorBispo515@gmail.com 
+
+[1]:https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/b385127a134dc266ebd8ab3e8676d90bc53b0f74/assets/integrantes/joao.png
+[2]:https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/b385127a134dc266ebd8ab3e8676d90bc53b0f74/assets/integrantes/paulo.png
+[3]:https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/b385127a134dc266ebd8ab3e8676d90bc53b0f74/assets/integrantes/washington.png
+[4]:https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/b385127a134dc266ebd8ab3e8676d90bc53b0f74/assets/integrantes/sergio.png
