@@ -3,4 +3,8 @@ nav:
     - Home: index.md
     - About: about.md
 theme:
-  name: material
+    name: material
+    logo: https://cdn.discordapp.com/attachments/752588141298450563/752604546303524934/uva.png
+    favicon: https://www.codepuppet.com/wp-content/uploads/2013/10/uva.png
+extra_css:
+    - stylesheets/extra.css
