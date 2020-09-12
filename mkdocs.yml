@@ -1,10 +1,17 @@
 site_name: IHC - UVa
 nav:
-    - Home: index.md
-    - About: about.md
+    - Sobre: index.md
+    - Planejamento do Projeto:
+        - Sites avaliados: sites_avaliados.md
+        - Porque UVa?: porque_uva.md
+        - Ferramentas: ferramentas.md
+        - Processo de Design: processo_design.md
+        - Cronograma de atividades: cronograma_atividades.md
 theme:
     name: material
+    language: pt
     logo: https://cdn.discordapp.com/attachments/752588141298450563/752604546303524934/uva.png
     favicon: https://www.codepuppet.com/wp-content/uploads/2013/10/uva.png
 extra_css:
     - stylesheets/extra.css
+repo_url: https://github.com/Interacao-Humano-Computador/2020.1-UVaJudge
