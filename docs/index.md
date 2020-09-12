@@ -4,7 +4,7 @@
 
 # Sobre o Projeto
 
-<p align="justify"> &emsp;&emsp; [**UVa online judge**](https://onlinejudge.org/) é um famoso juiz online que possui um excelente banco de questões para competições. Um dos maiores pontos fortes do site é que possui todas as questões do CP1, CP2 e CP3 (ou "competitive programming"), que são livros referência quando o assunto é competição.</p>
+<p align="justify"> &emsp;&emsp; <a href="https://onlinejudge.org/">UVa online judge</a> é um famoso juiz online que possui um excelente banco de questões para competições. Um dos maiores pontos fortes do site é que possui todas as questões do CP1, CP2 e CP3 (ou "competitive programming"), que são livros referência quando o assunto é competição.</p>
 
 <p align="justify"> &emsp;&emsp; No entanto, o site ainda têm algumas questões que deixam a desejar. Nosso objetivo é avaliar a usabilidade do software utilizando princípios e técnicas aprendidas no decorrer da disciplina.</p>
 
@@ -30,3 +30,11 @@
 
 [wash-img]:https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/b385127a134dc266ebd8ab3e8676d90bc53b0f74/assets/integrantes/washington.png
 [wash-github]:https://github.com/WashingtonBispo
+
+# Versionamento
+
+|Data|Versão|Descrição|Autor|
+|:-:|:-:|:-:|:-:|
+|03/09/2020|1.0|Criação do documento|Sérgio Cipriano e Washington Bispo|
+|07/09/2020|1.2|Adicionando links permanentes|Sérgio Cipriano e Washington Bispo|
+|12/09/2020|1.3|Corrigindo nomes e formatação|Sérgio Cipriano|
