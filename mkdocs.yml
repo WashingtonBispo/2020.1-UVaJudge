@@ -2,7 +2,10 @@ site_name: IHC - UVa
 nav:
     - Sobre: index.md
     - Planejamento do Projeto:
-        - Sites avaliados: sites_avaliados.md
+        - Sites avaliados: 
+            - UVa Online Judge: avaliacao_uva.md
+            - MangaLivre: avaliacao_mangalivre.md
+            - Nota Legal SP: avaliacao_notalegalsp.md
         - Porque UVa?: porque_uva.md
         - Ferramentas: ferramentas.md
         - Processo de Design: processo_design.md
