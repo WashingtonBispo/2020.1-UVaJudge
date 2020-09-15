@@ -11,6 +11,7 @@
 |Data início|Data Fim|Atividade|
 |:-:|:-:|:-:|
 |14/09/2020|20/09/2020|Criar cronograma e principais issues de todo o projeto; finalizar documentos de sites avaliados; explicar a escolha do UVa; descrever ferramentas que serão utilizadas no projeto; criar documento com o processo de design|
+|-         |15/09/2020|Apoio do professor|
 |-         |21/09/2020|Prazo final de entrega da primeira apresentação|
 |21/09/2020|27/09/2020|Semana Universitária|
 |-         |29/09/2020|Feedback da primeira apresentação|
@@ -53,3 +54,4 @@
 |:-:|:-:|:-:|:-:|
 |12/09/2020|1.0|Criação do documento|Sérgio Cipriano|
 |14/09/2020|2.0|Esboço do cronograma|Sérgio Cipriano|
+|15/09/2020|2.1|Adicionando data ao cronograma|Sérgio Cipriano|
