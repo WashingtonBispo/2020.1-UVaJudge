@@ -2,11 +2,14 @@ site_name: IHC - UVa
 nav:
     - Sobre: index.md
     - Planejamento do Projeto:
-        - Sites avaliados: sites_avaliados.md
-        - Porque UVa?: porque_uva.md
-        - Ferramentas: ferramentas.md
-        - Processo de Design: processo_design.md
-        - Cronograma de atividades: cronograma_atividades.md
+        - Sites avaliados: 
+            - UVa Online Judge: avaliacoes_individuais/avaliacao_uva.md
+            - MangaLivre: avaliacoes_individuais/avaliacao_mangalivre.md
+            - Poupa Tempo SP: avaliacoes_individuais/avaliacao_poupatemposp.md
+        - Porque UVa?: planejamento_projeto/porque_uva.md
+        - Ferramentas: planejamento_projeto/ferramentas.md
+        - Processo de Design: planejamento_projeto/processo_design.md
+        - Cronograma de atividades: planejamento_projeto/cronograma_atividades.md
 theme:
     name: material
     language: pt
