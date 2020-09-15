@@ -1,6 +1,6 @@
 #**Avaliação do Site MangaLivre**
 #1.Introdução
-<p align="justify"> &emsp;&emsp; Será feito uma análise sobre o site Mangalivre.net usando um método de avaliação baseado na observação, o percurso cognitivo. Por conta do isolamento social, o teste será realizado à distância onde a pessoa que testa vai espelhar sua tela e seu cursor, para que dessa forma o avaliador consiga observar suas ações.</p>
+<p align="justify"> &emsp;&emsp; Será feito uma análise sobre o site <a href="https://mangalivre.net/">Mangalivre.net</a> usando um método de avaliação baseado na observação, o percurso cognitivo. Por conta do isolamento social, o teste será realizado à distância onde a pessoa que testa vai espelhar sua tela e seu cursor, para que dessa forma o avaliador consiga observar suas ações.</p>
 A avaliação será conduzida da seguinte forma:<br>
 
 * O usuário vai entrar no site e descer até o final para observar a interface por inteiro;<br>
