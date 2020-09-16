@@ -1,20 +1,30 @@
 site_name: IHC - UVa
-nav:
-    - Sobre: index.md
-    - Planejamento do Projeto:
-        - Sites avaliados: 
-            - UVa Online Judge: avaliacoes_individuais/avaliacao_uva.md
-            - MangaLivre: avaliacoes_individuais/avaliacao_mangalivre.md
-            - Poupa Tempo SP: avaliacoes_individuais/avaliacao_poupatemposp.md
-        - Porque UVa?: planejamento_projeto/porque_uva.md
-        - Ferramentas: planejamento_projeto/ferramentas.md
-        - Processo de Design: planejamento_projeto/processo_design.md
-        - Cronograma de atividades: planejamento_projeto/cronograma_atividades.md
+
 theme:
     name: material
     language: pt
     logo: https://cdn.discordapp.com/attachments/752588141298450563/752604546303524934/uva.png
     favicon: https://www.codepuppet.com/wp-content/uploads/2013/10/uva.png
+
 extra_css:
     - stylesheets/extra.css
+
 repo_url: https://github.com/Interacao-Humano-Computador/2020.1-UVaJudge
+
+nav:
+    - Sobre: index.md
+    - Planejamento do Projeto:
+        - Cronograma de atividades: planejamento_projeto/cronograma_atividades.md
+        - Ferramentas: planejamento_projeto/ferramentas.md
+        - Sites avaliados: 
+            - UVa Online Judge:
+                - Planejamento da avaliação: planejamentos_individuais/planejamento_uva.md
+                - Avaliação: avaliacoes_individuais/avaliacao_uva.md
+            - MangaLivre:
+                - Planejamento da avaliação: planejamentos_individuais/planejamento_mangalivre.md
+                - Avaliação: avaliacoes_individuais/avaliacao_mangalivre.md
+            - Poupa Tempo SP:
+                - Planejamento da avaliação: planejamentos_individuais/planejamento_poupatemposp.md
+                - Avaliação: avaliacoes_individuais/avaliacao_poupatemposp.md
+        - Porque UVa?: planejamento_projeto/porque_uva.md
+        - Processo de Design: planejamento_projeto/processo_design.md
