@@ -1,12 +1,12 @@
 # **Avaliação do site UVa Online Judge**
 
-## 1 Introdução
+## 1. Introdução
 
-<p align="justify"> &emsp;&emsp; Baseado no que foi definido no planejamento será feita uma análise do site UVa. Seguiremos do seguinte modo: primeiro será feita uma análise da usabilidade baseada em metas de usabilidade, segundo iremos responder as perguntas definidas como objetivo da avaliação e, por fim, terminaremos com as avaliações heurísticas.</p>
+<p align="justify"> &emsp;&emsp; Baseado no que foi definido no planejamento da avaliação, será feita uma análise do site UVa. Seguiremos do seguinte modo: primeiro, será feita uma análise da usabilidade baseada em metas de usabilidade, segundo, iremos responder as perguntas definidas como objetivo da avaliação e, por fim, terminaremos com as avaliações heurísticas.</p>
 
-<p align="justify"> &emsp;&emsp; Pelo fato do UVa ter sido escolhido para o projeto final, efetuaremos uma análise utilizando vários métodos.</p>
+<p align="justify"> &emsp;&emsp; Pelo fato do UVa ter sido escolhido para o projeto principal da disciplina, efetuaremos uma análise mais robusta.</p>
 
-## 2 Metas de Usabilidade
+## 2. Metas de Usabilidade
 
 ### 2.1 Usabilidade do UVa
 
@@ -20,7 +20,7 @@
 6. Memorização: não existem barreiras que dificultem voltar a usar o sistema até porque recebe poucas atualizações.
 
 
-## 3 Objetivos da avaliação
+## 3. Objetivos da avaliação
 <p align="justify"> &emsp;&emsp; Os objetivos da avaliação serão expostos por meio de um conjunto de perguntas. Essas que servirão de guia para entender melhor a avaliação e o próprio UVa em si. Segue abaixo os objetivos e suas respostas.</p>
 
 1. De que maneira o sistema separa os problemas? Separa por meio de eventos, livros e volumes.
@@ -30,7 +30,7 @@
 5. O usuário entende o que os volumes significam? Nenhum volume é classificado e são separados por números. Não existe legenda, logo, para saber sobre do que se trata aquele volume de questões é preciso lê-las.
 6. Qual alternativa é mais eficiente: categorias ou volumes? Categorias costumam dizer por si só sobre o que é uma questão. Mesmo adicionando uma legenda aos volumes ainda seria uma barreira a mais que o usuário precisaria passar apenas para ver o contexto da questão. O fato é que o sistema atual é pior do que ambas as alternativas citadas acima.
 
-## 4 Avaliações heurísticas
+## 4. Avaliações heurísticas
 
 ### 4.1 Status do sistema
 
@@ -138,8 +138,7 @@ Correção possível:    Fornecer boas ferramentas de busca.
 Verificação:          O uDebug fornece poder de reconhecer, diagnosticar e corrigir ao usuário?
 Grau de severidade:   Grave.
 Local:                uDebug.
-Contexto:             uDebug é uma ferramenta de auxílio disponibilizada pelo.
-UVa para ajudar o usuário a lidar com erros nas questões
+Contexto:             uDebug é uma ferramenta de auxílio disponibilizada pelo UVa para ajudar o usuário a lidar com erros nas questões.
 Causa:                Informações erradas no uDebug, qualquer um pode adicionar novas informações.
 Efeito sobre usuário: Confusão e desinformação.
 Efeito sobre tarefa:  Nenhum.
@@ -159,10 +158,11 @@ Correção possível:    Fornecer um fórum para tirar dúvidas, um fórum abert
 ```
 
 
-# Versionamento
+## 5. Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |08/09/2020|1.0|Primeira versão da avaliação em latex|Sérgio Cipriano|
 |15/09/2020|1.1|Criação do documento na versão markdown|Washington Bispo|
 |15/09/2020|2.0|Adaptação do material de latex para markdown|Sérgio Cipriano|
+|15/09/2020|2.1|Correção na formatação do item 4.9 e aprimoramento no texto|Sérgio Cipriano|
