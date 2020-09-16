@@ -18,7 +18,7 @@
 
 |Foto | Matrícula | Nome | GitHub | E-mail|
 |:--:|:--:|:--:|:--:|:--:|
-| ![Paulo][paulo-img] | 18/0054554 | Paulo Batista| [@higton][paulo-github] | 180054554@aluno.unb.br
+| ![Paulo][paulo-img] | 18/0054554 | Paulo Batista| [@higton][paulo-github] | hilgton@gmail.com
 | ![Sergio][sergio-img] | 18/0037439 | Sérgio Cipriano | [@SergioAlmeidaCiprianoJr][sergio-github] | sergiosacj@hotmail.com.br
 | ![Washington][wash-img] | 18/0029223 | Washington Bispo | [@WashingtonBispo][wash-github] | JuniorBispo515@gmail.com 
 
