@@ -1,4 +1,6 @@
-# Descrição
+# Cronograma
+
+## 1. Descrição
 
 <p align="justify"> &emsp;&emsp; O objetivo desse cronograma é criar um conjunto de metas semanais tendo em vista os prazos de entrega da disciplina IHC 2020/1. Nesse cronograma, contabilizaremos uma semana como o perído entre segunda-feira e domingo, inclusos.</p>
 
@@ -6,7 +8,7 @@
 
 <p align="justify"> &emsp;&emsp; Por fim, vale salientar, que o cronograma contém apenas planos futuros. Não foram catalogadas as semanas anteriores à sua criação.</p>
 
-# Cronograma de atividades
+## 2. Cronograma de atividades
 
 |Data início|Data Fim|Atividade|
 |:-:|:-:|:-:|
@@ -44,14 +46,15 @@
 
 </br>
 
-# Comentários finais
+## 3. Comentários finais
 
 <p align="justify"> &emsp;&emsp; Caso alguma eventualidade aconteça não é necessário seguir à risca o cronograma. É importante lembrar que seu objetivo é de ser um guia às atividades do projeto. Portanto, como todo e qualquer projeto, é preciso ser flexível com o cronograma quando necessário, mas sempre atendendo aos prazos de entrega.</p>
 
-# Versionamento
+## 4. Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |12/09/2020|1.0|Criação do documento|Sérgio Cipriano|
 |14/09/2020|2.0|Esboço do cronograma|Sérgio Cipriano|
 |15/09/2020|2.1|Adicionando data ao cronograma|Sérgio Cipriano|
+|15/09/2020|2.1|Atualizando formatação|Sérgio Cipriano|
