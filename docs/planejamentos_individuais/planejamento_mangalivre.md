@@ -39,9 +39,6 @@ Para que dessa forma possamos ser capazes de entender a visão sobre a aplicaç�
 [https://mangalivre.net/](https://mangalivre.net/)
 
 
-
-
-
 ## 7. Versionamento
 
 |Data|Versão|Descrição|Autor|
