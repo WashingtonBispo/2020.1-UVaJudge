@@ -15,13 +15,23 @@
 <p align="justify"> &emsp;&emsp; Segue abaixo uma explicação retirada do livro que utilizamos para criar nosso processo de design. Para mais informações olhar nossa bibliografia.</p>
 
 ```
-Análise de requisitos: A análise de requisitos configura a primeira fase do ciclo de Mayhew, onde são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e os princípios gerais de design do projeto.
+Análise de requisitos: A análise de requisitos configura a primeira fase do ciclo 
+de Mayhew,onde são definidas as metas de usabilidade com base no perfil dos 
+usuários, análise de tarefas, possibilidades e limitações da plataforma em que o 
+sistema será executado e os princípios gerais de design do projeto.
 ```
 ```
-Design, avaliação e desenvolvimento: A segunda fase do ciclo, caracterizada por design, avaliação e desenvolvimento, tem por objetivo a criação de uma solução que se baseia nas metas de usabilidade definidas durante a análise de requisitos. Esta etapa se divide em três níveis de detalhe, basicamente divididos em: projeto e avaliação do modelo conceitual, prototipação e avaliação do design de interfaces, e análise interativa das interfaces propostas.
+Design, avaliação e desenvolvimento: A segunda fase do ciclo, caracterizada por 
+design, avaliação e desenvolvimento, tem por objetivo a criação de uma solução 
+que se baseia nas metas de usabilidade definidas durante a análise de requisitos. 
+Esta etapa se divide em três níveis de detalhe, basicamente divididos em: projeto
+e avaliação do modelo conceitual, prototipação e avaliação do design de 
+interfaces, e análise interativa das interfaces propostas.
 ```
 ```
-Instalação: O designer deve coletar opiniões dos usuários depois de algum tempo de uso. Essas opiniões serão úteis para melhorar o sistema em versões futuras ou até mesmo para apontar a necessidade de desenvolver novos sistemas interativos ainda não previstos.
+Instalação: O designer deve coletar opiniões dos usuários depois de algum tempo de uso.
+Essas opiniões serão úteis para melhorar o sistema em versões futuras ou até mesmo 
+para apontar a necessidade de desenvolver novos sistemas interativos ainda não previstos.
 ```
 
 ## 3. Bibliografia
