@@ -14,9 +14,9 @@ repo_url: https://github.com/Interacao-Humano-Computador/2020.1-UVaJudge
 nav:
     - Sobre: index.md
     - Planejamento do Projeto:
-        - Porque UVa?: planejamento_projeto/porque_uva.md
-        - Cronograma de atividades: planejamento_projeto/cronograma_atividades.md
-        - Ferramentas: planejamento_projeto/ferramentas.md
+        - Porque UVa?: entrega_1/porque_uva.md
+        - Cronograma de atividades: entrega_1/cronograma_atividades.md
+        - Ferramentas: entrega_1/ferramentas.md
         - Sites avaliados: 
             - UVa Online Judge:
                 - Planejamento da avaliação: planejamentos_individuais/planejamento_uva.md
@@ -27,4 +27,9 @@ nav:
             - Poupa Tempo SP:
                 - Planejamento da avaliação: planejamentos_individuais/planejamento_poupatemposp.md
                 - Avaliação: avaliacoes_individuais/avaliacao_poupatemposp.md
-        - Processo de Design: planejamento_projeto/processo_design.md
+        - Processo de Design: entrega_1/processo_design.md
+    - Atas das reuniões:
+        - Reunião 1: reuniao_1.md
+        - Reunião 2: reuniao_2.md
+    - Apresentações:
+        - Apresentação 1: Apresentacao_1.md
