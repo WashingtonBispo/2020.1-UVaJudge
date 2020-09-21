@@ -29,7 +29,9 @@ nav:
                 - Avaliação: avaliacoes_individuais/avaliacao_poupatemposp.md
         - Processo de Design: entrega_1/processo_design.md
     - Atas das reuniões:
-        - Reunião 1: reuniao_1.md
-        - Reunião 2: reuniao_2.md
+        - Reunião 1: atas/reuniao_1.md
+        - Reunião 2: atas/reuniao_2.md
+        - Reunião 3: atas/reuniao_3.md
+        - Reunião 4: atas/reuniao_4.md
     - Apresentações:
-        - Apresentação 1: Apresentacao_1.md
+        - Apresentação 1: apresentacoes/apresentacao_1.md
