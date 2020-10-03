@@ -47,4 +47,4 @@ para apontar a necessidade de desenvolver novos sistemas interativos ainda não 
 |12/09/2020|1.0|Criação do documento|Sérgio Cipriano|
 |15/09/2020|2.1|Atualizando formatação|Sérgio Cipriano|
 |19/09/2020|2.2|Criação text sobre o processo de design escolhido|Sérgio Cipriano, Washington Bispo e Paulo Batista|
-|03/10/2020|1.0|Adicionando fonte na figura do ciclo de Mayhew|Sérgio Cipriano|
+|03/10/2020|2.3|Adicionando fonte na figura do ciclo de Mayhew|Sérgio Cipriano|
