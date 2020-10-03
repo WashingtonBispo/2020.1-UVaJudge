@@ -31,7 +31,7 @@ MkDocs é um rápido, simples gerador de site estático que é usado para criar 
 
 ## 1.7 Material for MkDocs
 <img align="left" src="../../assets/ferramentas/Material.png" width="150", height = "100">	
-Material for MkDocs foi o tema escolhido para ser utilizado no MkDocs.
+Material for MkDocs foi o tema escolhido para ser utilizado no MkDocs.<br><br><br><br><br><br>
 
 
 ## 1.8 Lucidchart
@@ -52,4 +52,4 @@ Microsoft Teams é uma plataforma unificada de comunicação e colaboração que
 |15/09/2020|2.1|Atualizando formatação|Sérgio Cipriano|
 |19/09/2020|2.2|Primeira versão| Washington Bispo|
 |19/09/2020|2.3|Adição do Material for MkDoces| Washington Bispo|
-|03/10/2020|1.0|Adicionando feramenta de prototipação|Sérgio Cipriano|
+|03/10/2020|2.4|Adicionando feramenta de prototipação|Sérgio Cipriano|
