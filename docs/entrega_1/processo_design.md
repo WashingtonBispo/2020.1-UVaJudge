@@ -10,7 +10,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-BCE/edd3e519802d04e0e0b183d034c8dd47da35cdc1/docs/images/ciclo_mayhew.png">
+  <p align="center">Figura 1: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.</p>
 </p>
+<br>
 
 <p align="justify"> &emsp;&emsp; Segue abaixo uma explicação retirada do livro que utilizamos para criar nosso processo de design. Para mais informações olhar nossa bibliografia.</p>
 
@@ -45,3 +47,4 @@ para apontar a necessidade de desenvolver novos sistemas interativos ainda não 
 |12/09/2020|1.0|Criação do documento|Sérgio Cipriano|
 |15/09/2020|2.1|Atualizando formatação|Sérgio Cipriano|
 |19/09/2020|2.2|Criação text sobre o processo de design escolhido|Sérgio Cipriano, Washington Bispo e Paulo Batista|
+|03/10/2020|1.0|Adicionando fonte na figura do ciclo de Mayhew|Sérgio Cipriano|
