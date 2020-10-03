@@ -3,7 +3,7 @@
 ## 1. Descrição
 
 ```
-Reunião 2
+Reunião 3
 Data: 10/09/2020
 Duração: 30 minutos
 ```
