@@ -4,7 +4,7 @@
 ## 1.Descrição
 <p align="justify"> &emsp;&emsp; Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico (Cooper et al., 2007; Pruitt e Adlin,2006; Cooper, 1999). É muito usada para representar um tipo de pessoa que são os possíveis usuários.As personas são definidas por várias características, mas a principal delas é seus objetivos. Essas personas são determinadas através de discussões dos designers e refinando as possibilidades se é capaz de chegar em uma população aceitável. </p>
 
-Obs: Todas as fotos foram retiradas do site <a href="https://thispersondoesnotexist.com/">ThisPersonDoesNotExist</a>
+<p align="justify"> &emsp;&emsp; Antes de prosseguirmos para as personas,vale ressaltar que todas as fotos foram retiradas do site <a href="https://thispersondoesnotexist.com/">ThisPersonDoesNotExist</a>. Esse site utiliza uma inteligência artificial para gerar imagens de pessoas fictícias, sendo assim, todas as imagens utilizadas não infringem nenhuma lei de direitos autorais.</p>
 
 ## 2.Personas do UVa
 ### 2.1 Persona 1
@@ -71,12 +71,13 @@ Obs: Todas as fotos foram retiradas do site <a href="https://thispersondoesnotex
 | Tarefas: | Lecionar, instruir e auxiliar os alunos |
 | Expectativas: | Que ajude os alunos na sua matéria Introdução à HiperComputação(IHC) |
 
-## 3.Referências Bibliográficas
+## 3. Bibliografia
 
-- BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana, **Interação Humano-Computador** , Rio de Janeiro: Elsevier, 2011.
+<p align="justify"> &emsp;&emsp; BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010. </p>
 
 ## 4.Versionamento
 
-| Versão | Data       | Modificação                   | Autor                |
-| ------ | ---------- | ----------------------------- | -------------------- |
-| 1.0    | 03/10/2020 | Criação documento de personas | Washigton Bispo      |
+|Data|Versão|Descrição|Autor|
+|:-:|:-:|:-:|:-:|
+|03/10/2020|1.0|Criação documento de personas|Washigton Bispo|
+|04/10/2020|1.1|Aprimoramento da descrição|Sérgio Cipriano|

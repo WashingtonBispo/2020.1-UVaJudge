@@ -19,17 +19,21 @@ nav:
         - Ferramentas: entrega_1/ferramentas.md
         - Sites avaliados: 
             - UVa Online Judge:
-                - Planejamento da avaliação: planejamentos_individuais/planejamento_uva.md
-                - Avaliação: avaliacoes_individuais/avaliacao_uva.md
+                - Planejamento da avaliação: entrega_1/planejamentos_individuais/planejamento_uva.md
+                - Avaliação: entrega_1/avaliacoes_individuais/avaliacao_uva.md
             - MangaLivre:
-                - Planejamento da avaliação: planejamentos_individuais/planejamento_mangalivre.md
-                - Avaliação: avaliacoes_individuais/avaliacao_mangalivre.md
+                - Planejamento da avaliação: entrega_1/planejamentos_individuais/planejamento_mangalivre.md
+                - Avaliação: entrega_1/avaliacoes_individuais/avaliacao_mangalivre.md
             - Poupa Tempo SP:
-                - Planejamento da avaliação: planejamentos_individuais/planejamento_poupatemposp.md
-                - Avaliação: avaliacoes_individuais/avaliacao_poupatemposp.md
+                - Planejamento da avaliação: entrega_1/planejamentos_individuais/planejamento_poupatemposp.md
+                - Avaliação: entrega_1/avaliacoes_individuais/avaliacao_poupatemposp.md
         - Processo de Design: entrega_1/processo_design.md
-        - Análise de tarefas: entrega_2/analise_tarefas.md
+        - Análise do Perfil de Usuário:
+            - Perfil de usuário: entrega_2/perfil_usuario.md
+            - Questionário: entrega_2/questionario.md
+            - Entrevista: entrega_2/entrevista.md
         - Personas: entrega_2/personas.md
+        - Análise de tarefas: entrega_2/analise_tarefas.md
     - Atas das reuniões:
         - Reunião 1: atas/reuniao_1.md
         - Reunião 2: atas/reuniao_2.md
@@ -38,5 +42,6 @@ nav:
         - Reunião 5: atas/reuniao_5.md
         - Reunião 6: atas/reuniao_6.md
         - Reunião 7: atas/reuniao_7.md
+        - Reunião 8: atas/reuniao_8.md
     - Apresentações:
         - Apresentação 1: apresentacoes/apresentacao_1.md
