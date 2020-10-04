@@ -21,7 +21,7 @@
 </p>
 
 | Objetivos | Problemas e recomendações |
-|---------|--------------------|
+|-|-|
 | Acessar seção de problemas | **Ação:** selecionar na barra lateral "Browse problems". **Plano:** acessar os arquivos de questões do mundial ICPC. |
 | Acessar ICPC World Finals | **Ação:** selecionar no campo de arquivos exibido a pasta do ICPC. **Plano:** solucionar questões do último ICPC. |
 | Abrir arquivo de questões do último contest disponível(2018) | **Ação:** abertura do arquivo do ICPC 2018. **Feedback:** falha, arquivo vazio. **Recomendação:** importar questões do ICPC 2018 para o UVa. |
@@ -41,7 +41,7 @@
 </p>
 
 | Objetivos | Problemas e recomendações |
-| ----------| ------------------------- |
+|-|-|
 | Acessar seção de problemas | **Ação:** selecionar na barra lateral "Browse problems". **Plano:** buscar questões por categoria. |
 | Buscar questões nos bancos de volumes | **Ação:** usar ferramenta de busca customizada do UVa. **Feedback:** enorme quantidade de resultados não relacionados(a ferramenta usa a API de busca do google de forma indevida, acessando o buscador diretamente, o que exibe tudo relacionado a palavra "uva"). **Recomendação:** nesse caso, a solução é realizar uma busca manual. Para solucionar esse problema é necessário criar uma busca customizada interna. |
 | Submeter resposta | **Ação:** submeter solução criada. **Plano:** obter accepted(resposta correta). **Input:** arquivo da linguagem utilizada na solução do problema. |
@@ -61,7 +61,7 @@
 </p>
 
 | Objetivos | Problemas e recomendações |
-|---------|--------------------|
+|-|-|
 | Acessar seção de problemas | **Ação:** seleciona na barra lateral "Browse problems". **Plano:** buscar questões por categoria. |
 | Ordenar problemas pela ordem de dificuldade | **Problema:** só é possível fazer isso nas questões da sessão dos livros CP. **Recomendação:** realizar estudo seguindo os livros CP. |
 | Acessar problemas para iniciantes | **Ação:** acessar seção de introdução dos CPs. |
@@ -77,7 +77,8 @@
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |08/09/2020|1.0|Primeira versão da análise de tarefas|Sérgio Cipriano|
-|08/09/2020|1.1|Análise de tarefas da persona Maria lee Oliveira|Sérgio Cipriano|
-|08/09/2020|1.2|Análise de tarefas da persona Matheus Henrique Bastos|Sérgio Cipriano|
-|08/09/2020|1.3|Análise de tarefas da persona Juliana Figo Sabugueiro|Sérgio Cipriano|
-|08/09/2020|1.4|Adicionando tabela de objetivos para cada persona|Sérgio Cipriano e Washington Bispo|
+|03/10/2020|1.1|Análise de tarefas da persona Maria lee Oliveira|Sérgio Cipriano|
+|03/09/2020|1.2|Análise de tarefas da persona Matheus Henrique Bastos|Sérgio Cipriano|
+|03/10/2020|1.3|Análise de tarefas da persona Juliana Figo Sabugueiro|Sérgio Cipriano|
+|03/10/2020|1.4|Adicionando tabela de objetivos para cada persona|Sérgio Cipriano e Washington Bispo|
+|04/10/2020|1.5|Correção formatação|Sérgio Cipriano|
