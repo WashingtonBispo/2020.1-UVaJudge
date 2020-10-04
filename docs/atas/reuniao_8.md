@@ -3,15 +3,15 @@
 ## 1. Descrição
 
 ```
-Reunião 7
-Data: 03/09/2020
-Duração: 480 minutos
+Reunião 8
+Data: 04/09/2020
+Duração: 360 minutos
 ```
 
 ## 2. Conteúdo da reunião
 
-* Criação das personas e antipersonas;
-* Realização da análise de tarefas.
+* Gravação da apresentação 2;
+* Finalizando perfil de usuário.
 
 ## 3. Participantes
 

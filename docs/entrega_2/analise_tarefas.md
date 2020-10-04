@@ -68,7 +68,11 @@
 | Submeter resposta | **Ação:** submeter solução criada. **Plano:** obter accepted(resposta correta). **Input:** arquivo da linguagem utilizada na solução do problema. |
 | Verificar resposta | **Feedback:** retornará ACC caso tenha obtido êxito, as demais siglas são relacionadas a todas as possíveis falhas possíveis. **Ação:** se obter resposta certa, partir para a próxima questão e solucioná-la. |
 
-## 4. Versionamento
+## 4. Bibliografia
+
+<p align="justify"> &emsp;&emsp; BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010. </p>
+
+## 5. Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
