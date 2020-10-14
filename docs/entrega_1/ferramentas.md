@@ -43,6 +43,13 @@ Lucidchart será a ferramenta que nos auxiliará na prototipação.
 <img align="left" src="../../assets/ferramentas/teams.png" width="150", height = "100">	
 Microsoft Teams é uma plataforma unificada de comunicação e colaboração que combina bate-papo, videoconferências, armazenamento de arquivos e integração de aplicativos no local de trabalho. Está sendo utilizado para quando é necessário a gravação de contéudo para apresentações.<br><br><br><br>
 
+## 1.10 Figma
+<img align="left" src="../../assets/ferramentas/figma.png" width="150", height = "100">	
+Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para GNU/Linux, macOS e Windows. Ele foi utilizado para a crisação de algumas imagens ao longo do projeto.<br><br><br><br> <br> <br> <br>
+
+## 1.11 Google Forms
+<img align="left" src="../../assets/ferramentas/google_forms.png" width="150", height = "100">	
+Usado na coleta de dados por questionários.<br><br><br><br> <br> <br> <br>
 
 ## 2. Versionamento
 
@@ -53,3 +60,4 @@ Microsoft Teams é uma plataforma unificada de comunicação e colaboração que
 |19/09/2020|2.2|Primeira versão| Washington Bispo|
 |19/09/2020|2.3|Adição do Material for MkDoces| Washington Bispo|
 |03/10/2020|2.4|Adicionando feramenta de prototipação|Sérgio Cipriano|
+|13/10/2020|2.5|Adicionando o Figma e o Google Forms|Washington Bispo|
