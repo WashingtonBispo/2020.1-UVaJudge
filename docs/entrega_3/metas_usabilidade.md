@@ -25,9 +25,14 @@
 5. O usuário entende o que os volumes significam? Nenhum volume é classificado e são separados por números. Não existe legenda, logo, para saber sobre do que se trata aquele volume de questões é preciso lê-las.
 6. Qual alternativa é mais eficiente: categorias ou volumes? Categorias costumam dizer por si só sobre o que é uma questão. Mesmo adicionando uma legenda aos volumes, ainda seria uma barreira a mais que o usuário precisaria passar apenas para ver o contexto da questão. O fato é que o sistema atual é pior do que ambas as alternativas citadas acima. No guia de estilo é apresentado uma alternativa por meio de categorias, para mais detalhes olhar Figura 3 do guia de estilo.
 
-## 4. Versionamento
+## 4. Bibliografia
+
+<p align="justify"> &emsp;&emsp; BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.</p>
+
+## 5. Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |13/10/2020|1.0|Criação do documento|Sérgio Cipriano|
+|14/10/2020|1.1|Deletando informações desnecessárias e complementando análise com objetivos|Sérgio Cipriano|
 |14/10/2020|1.1|Deletando informações desnecessárias e complementando análise com objetivos|Sérgio Cipriano|

@@ -147,14 +147,15 @@ No UVa, todas as páginas possuem como padrão uma barra lateral à esquerda.
 
 <p align="justify"> &emsp;&emsp; O site não cria sequência de diálogo, de forma que a única maneira de ver o feedback de uma submissão é indo até a aba "My submissions". Além disso caso haja algum erro na submissão (como o envio de uma imagem por engano) o site redireciona para uma aba de erro como mostrado na parte 5.3 desse documento.</p>
 
-## 7. Referência
+## 7. Bibliografia
 
-* BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana, **Interação Humano-Computador**, Rio de Janeiro: Elsevier, 2011.
+<p align="justify"> &emsp;&emsp; BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010. </p>
 
 ## 8. Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
-|11/10/2020|1.0| Criação do documento |Sérgio Cipriano e Washington Bispo|
-|12/10/2020|1.1| Criação das figuras |Sérgio Cipriano e Washington Bispo|
-|13/10/2020|2.0| Primeira versão completa do documento |Sérgio Cipriano e Washington Bispo|
+|11/10/2020|1.0|Criação do documento|Sérgio Cipriano e Washington Bispo|
+|12/10/2020|1.1|Criação das figuras|Sérgio Cipriano e Washington Bispo|
+|13/10/2020|2.0|Primeira versão completa do documento|Sérgio Cipriano e Washington Bispo|
+|14/10/2020|2.1|Atualização na bibliografia|Sérgio Cipriano|
