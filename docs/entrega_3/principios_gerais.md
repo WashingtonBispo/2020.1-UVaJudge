@@ -1,64 +1,69 @@
 # Princípios gerais
 
+## 1. Introdução
 
+<p align="justify"> &emsp;&emsp; Os princípios de projetos são conceitos que estão relacionados com a  experiência do usuário sobre a usabilidade de um sistema. O modelo conceitual deve auxiliar a interpretar o relacionamento entre as ações e informações apresentadas pelo sistema e o conhecimento no mundo.</p>
+<p align="justify"> &emsp;&emsp; Neste documento será apresentado os conceitos teóricos adotados para cada princípio e, por fim, os princípios que serão trabalhados.</p>
 
-## Conteito de Princípios gerais
+## 2. Princípios gerais
 
-Os princípios de projetos são conceitos que estão relacionados com a  experiência do usuário sobre a usabilidade de um sistema. O modelo conceitual deve auxiliar a interpretar o relacionamento entre as ações e informações apresentadas pelo sistema e o conhecimento no mundo.
+### 2.1 Correspondência com as Expectativas dos Usuários
 
+<p align="justify"> &emsp;&emsp; Devemos nos certificar de que o usuário consegue determinar os relacionamentos entre ações e seus efeitos no sistema.</p>
 
+### 2.2 Equilíbrio entre Controle e Liberdade do Usuário
 
-## Princípios gerais
+<p align="justify"> &emsp;&emsp; O sistema deve fazer com que o usuário se sinta no controle, mas ao mesmo tempo impor limites no usuário.</p>
 
-**1. Correspondência com as Expectativas dos Usuários**
+### 2.3 Consistência e Padronização
 
-Devemos nos certificar de que o usuário consegue determinar os relacionamentos entre ações e seus efeitos no sistema.
+<p align="justify"> &emsp;&emsp; Assegurar a consistência da interface com o modelo conceitual embutido no sistema.</p>
 
-**2. Equilíbrio entre Controle e Liberdade do Usuário**
+### 2.4 Promovendo a Eficiência do Usuário
 
-O sistema deve fazer com que o usuário se sinta no controle, mas ao mesmo tempo impor limites no usuário.
+<p align="justify"> &emsp;&emsp; As pessoas são mais custosas do que máquinas, e uma economia de tempo e esforço do usuário costumam trazer mais benefícios do que economias semelhantes de processamento ou armazenamento.</p>
 
-**3. Consistência e Padronização**
+### 2.5 Antecipação
 
-Assegurar a consistência da interface com o modelo conceitual embutido no sistema. 
+<p align="justify"> &emsp;&emsp; As aplicações devem tentar prever o que o usuário quer e precisa, em vez de esperar que os usuários busquem ou coletem informações ou invoquem ferramentas.</p>
 
-**4. Promovendo a Eficiência do Usuário**
+### 2.6 Visibilidade e Reconhecimento
 
-As pessoas são mais custosas do que máquinas, e uma economia de tempo e esforço do usuário costumam trazer mais benefícios do que economias semelhantes de processamento ou armazenamento.
+<p align="justify"> &emsp;&emsp; Antes de executar uma ação, é necessário tornar visível para os usuários o que é possível realizar e como as ações devem ser feitas. Além disso, a interface não deve oferecer opções que não estejam disponíveis ou não façam sentido em um determinado momento da interação.</p>
 
-**5. Antecipação**
+### 2.7 Conteúdo Relevante e Expressão Adequada
 
-As aplicações devem tentar prever o que o usuário quer e precisa, em vez de esperar que os usuários busquem ou coletem informações ou invoquem ferramentas. 
+<p align="justify"> &emsp;&emsp; A interface deve prover de respostas ao usuário sobre erros e também se expressar de forma natural.</p>
 
-**6. Visibilidade e Reconhecimento**
+### 2.8 Projeto para Erros
 
-Antes de executar uma ação, é necessário tornar visível para os usuários o que é possível realizar e como as ações devem ser feitas. Além disso, a interface não deve oferecer opções que não estejam disponíveis ou não façam sentido em um determinado momento da interação.
+<p align="justify"> &emsp;&emsp; O designer deve ajudar o usuário a se recuperar de um erro, informando-lhe sobre o que ocorreu, as consequências disso e como reverter os resultados indesejados.</p>
 
-**7. Conteúdo Relevante e Expressão Adequada**
+## 3. Princípios a serem utilizados
 
-A interface deve prover de respostas ao usuário sobre erros e também se expressar de forma natural.
+### 3.1 Correspondência com as Expectativas dos Usuários
 
-**8. Projeto para Erros**
+<p align="justify"> &emsp;&emsp; O site realiza muitas coisas que fogem da expectativa do usuário. Por exemplo, o usuário precisa acessar diferentes abas para ver resultado da submissão. Isso cria uma barreira desnecessária para uma atividade essencial, além do desconforto.</p>
 
-O designer deve ajudar o usuário a se recuperar de um erro, informando-lhe sobre o que ocorreu, as consequências disso e como reverter os resultados indesejados.
+### 3.2 Equilíbrio entre Controle e Liberdade do Usuário
 
+<p align="justify"> &emsp;&emsp; No site existe muita liberdade para o usuário e muito pouco controle. Por exemplo, mesmo sem ter estatísticas do site disponível, é possível acessar a aba de estatísticas. Isso é um descaso, pois uma aba inútl está sendo disponibilizada.</p>
 
+### 3.3 Consistência e Padronização
 
-## Princípios a serem utilizados
+<p align="justify"> &emsp;&emsp; Não existe uma consistencia entre as páginas. Por exemplo, na hora de acessar a página uHunt. O site possui interface que destoa com a interface do UVa, mesmo que tenham sido feitos para se relacionarem.</p>
 
-**1. Correspondência com as Expectativas dos Usuários**
+### 3.4 Antecipação
 
-O site realiza muitas coisas que fogem da expectativa do usuário. Por exemplo, o usuário precisa acessar diferentes abas para ver resultado da submissão. Isso cria uma barreira desenecessário para uma atividade essencial, além do desconforto.
+<p align="justify"> &emsp;&emsp; O site UVA não consegue prever o que o usuário quer e precisa. Por exemplo, os problemas são separados em  volumes, o que é muito ineficiente, visto que para saber se uma questão é sobre grafos é necessário acessá-la. Mesmo problema com o acesso às  competições passadas.</p>
 
-**2. Equilíbrio entre Controle e Liberdade do Usuário**
+## 4. Bibliografia
 
-No site existe muita liberdade para o usuário e muito pouco controle. Por exemplo, mesmo sem ter estatísticas do site disponível, é possível acessar a aba de estatísticas. Isso é um descaso, pois uma aba inútl está sendo disponibilizada.
+<p align="justify"> &emsp;&emsp; BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010. </p>
 
-**3. Consistência e Padronização**
+## 5. Versionamento
 
-Não existe uma consistencia entre as páginas. Por exemplo, na hora de acessar a página uHunt. O site possui interface que destoa com a interface do UVa, mesmo que tenham sido feitos para se relacionarem.
-
-**5. Antecipação**
-
-O site UVA não consegue prever o que o usuário quer e precisa. Por exemplo, os problemas são separados em  volumes, o que é muito ineficiente, visto que para saber se uma questão é sobre grafos é necessário acessá-la. Mesmo problema com o acesso às  competições passadas.
-
+|Data|Versão|Descrição|Autor|
+|:-:|:-:|:-:|:-:|
+|12/10/2020|1.0|Criação do documento|Paulo Batista|
+|13/10/2020|2.0|Correção na formatação, aprimoramento da introdução, adição do documento no site e adição da bibliografia|Sérgio Cipriano|
