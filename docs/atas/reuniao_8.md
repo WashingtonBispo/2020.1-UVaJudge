@@ -11,7 +11,7 @@ Duração: 360 minutos
 ## 2. Conteúdo da reunião
 
 * Gravação da apresentação 2;
-* Finalizando perfil de usuário.
+* Finalizando perfil de usuário (Sérgio e Washington).
 
 ## 3. Participantes
 
@@ -19,3 +19,4 @@ Duração: 360 minutos
 |-|-|
 | Sérgio Cipriano  | 18/0037439 |
 | Washington Bispo | 18/0029223 |
+| Paulo Batista    | 18/0054554 |
