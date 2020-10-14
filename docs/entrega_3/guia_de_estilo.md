@@ -35,19 +35,35 @@ a nova plataforma que está sendo desenvolvida. À direita ele encontra um livro
 <p align="justify"> &emsp;&emsp; A disposição está atual muita confusa. Na aba esquerda da home está linkado janelas que nem existem mais, exemplo disso é a aba de estatísticas do site que ao ser selecionada o usuário é redirecionado à uma janela vazia. Além disso, vários links e emails que são apresentados na home já estão defasados e não recebem nenhuma atualização.</p>
 
 
-<p align="justify"> &emsp;&emsp; Home atual do site:</p>
-<img  src="https://cdn.discordapp.com/attachments/752587900377628756/764931238208864266/UVa_home.png" class="center">
-
-<p align="justify"> &emsp;&emsp; Exemplo de aba vazia:</p>
-<img  src="https://media.discordapp.net/attachments/752587900377628756/764935725358907422/UVa_link_vazio.png?width=1173&height=660" class="center">
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/752587900377628756/764931238208864266/UVa_home.png">
+  <p align="center">Figura 1: Home atual do site.</p>
+</p>
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/752587900377628756/764935725358907422/UVa_link_vazio.png?width=1173&height=660">
+  <p align="center">Figura 2: Exemplo de aba vazia/sem conteúdo.</p>
+</p>
 
 <p align="justify"> &emsp;&emsp; Esses problemas são causados por um excesso de informações datadas ou não trabalhadas. Desse modo, para corrigir essas falhas, será resuzido a quantidade de informações apresentando apenas os pontos principais e funcionais. Algumas dessas janelas vazias possuem ideias interessantes, mas falham em aplicar essa ideia no conteúdo visto que estão vazias.</p>
-<p align="justify"> &emsp;&emsp; A janela principal(Home) não acrescenta nenhuma informação relavante. Assim, iremos dividir o UVa em 4 janelas principais: login, cadastro, problemas e notícias. A aba login será a nova aba principal, mas mesmo sem fazer login, todas as demais abas estarão disponíveis. A aba de notícias irá conter o feed de notícias que aparecia na atual Home e a aba problemas será uma reformulação da aba Browse problems.</p>
-<p align="justify"> &emsp;&emsp; Segue abaixo os grids que criamos para cada janela.</p>
+<p align="justify"> &emsp;&emsp; A janela Home(inicial) não acrescenta nenhuma informação relavante. Desse modo, iremos dividir o UVa em 3 janelas principais: login, categorias de problemas e submissão de problemas. A janela login será a nova aba principal e, mesmo sem fazer login, todas as demais abas estarão disponíveis. A janela de categorias de problemas será uma reformulação da atual "Browse problems". Tal como dito na avaliação, um dos principais problemas do UVa é a desorganização dos problemas, assim, o objetivo da reformulação por categorias é resolver essa falha. Por fim, a janela de submissões visa melhorar o feedback das respostas de cada problema. Atualmente, é necessário acessar outra aba para ver a resposta da submissão, já, no modelo que criamos na Figura 4, tudo ocorrerá na mesma janela.</p>
+<p align="justify"> &emsp;&emsp; Segue abaixo os grids que criamos para cada janela principal.</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/752587900377628756/765716671595282462/Tela_Categorias.png">
+  <p align="center">Figura 3: Grid da janela de categorias de problemas.</p>
+</p>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/752587900377628756/765716675898769428/Tela_Problemas.png">
+  <p align="center">Figura 4: Grid da janela de submissão de problemas.</p>
+</p>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/752587900377628756/765716704973553684/Tela_Login.png">
+  <p align="center">Figura 5: Grid da janela de login.</p>
+</p>
 
 ### 3.2 Janelas 
 
-<p align="justify"> &emsp;&emsp; </p>
+<p align="justify"> &emsp;&emsp; No total o UVa possui 6 janelas funcionais: Home, uHunt, uDebug, Contests, Browse Problems, Submissions. As demais estão sem conteúdo ou apresentam alguma falha que impede acesso.</p>
 
 ### 3.3 Tipografia 
 
@@ -60,41 +76,41 @@ a nova plataforma que está sendo desenvolvida. À direita ele encontra um livro
 <img  src="https://cdn.discordapp.com/attachments/752587900377628756/764935808309788682/unknown.png" class="left">
 
 ### 3.4 Símbolos não tipográficos 
-
-<p align="justify"> &emsp;&emsp; Os símbolos não tipográficos foram os seguintes:</p>
-<img align = "left" src="https://cdn.discordapp.com/attachments/752587900377628756/764936749079068672/unknown.png">
-<img align = "left" src="https://cdn.discordapp.com/attachments/752587900377628756/764938204091908116/unknown.png"> <br><br><br>
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/752587900377628756/764936749079068672/unknown.png">
+  <img src="https://cdn.discordapp.com/attachments/752587900377628756/764938204091908116/unknown.png">
+  <p align="center">Figura 6: Símbolos não tipográficos do UVa.</p>
+</p>
+<br><br><br>
 
 ### 3.5 Cores
 
-<p align="justify"> &emsp;&emsp; 
-#c31756<br>
-#ffffff<br>
-#aaaabb<br>
-#0f0f6f<br>
-#337ab7<br>
+<p align="center">
+  <img src="../../assets/uva/cores_uva.png">
+  <p align="center">Figura 7: Cores do UVa.</p>
+</p>
+
 </p>
 
 ## 4. Elementos de interação 
 
 ### 4.1 Estilos de interação
 
-<p align="justify"> &emsp;&emsp; </p>
+<p align="justify"> &emsp;&emsp; Dentro do UVa online judge é encontrado predominantemente o WIMP(Windows, Icons, Menus, and Pointers), mas principalmente o uso de menus, aonde é oferecido ao usuário uma lista de opções e ele escolhe uma, como é visto na figura 8. Além disso, o site mistura com o WIMP o uso de formulários na hora das submissões.</p>
 
-### 4.2 Seleção de um estilo
+### 4.2 Aceleradores (teclas de atalho)
 
-<p align="justify"> &emsp;&emsp; </p>
-
-### 4.3 Aceleradores (teclas de atalho)
-
-<p align="justify"> &emsp;&emsp; </p>
+<p align="justify"> &emsp;&emsp; Não possui nenhum tipo de acelerador</p>
 
 ## 5. Elementos de ação 
 
 ### 5.1 Preenchimento de campos 
 
 <p align="justify"> &emsp;&emsp; Além do login e do cadastro, é necessário preencher campos nas submissões dos problemas. Segue foto expositiva:</p>
-<img  src="https://cdn.discordapp.com/attachments/752587900377628756/764950446359707658/unknown.png">
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/752587900377628756/764950446359707658/unknown.png">
+  <p align="center">Figura 8: Janela de submissão do UVa.</p>
+</p>
 
 ### 5.2 Seleção
 
@@ -108,13 +124,23 @@ a nova plataforma que está sendo desenvolvida. À direita ele encontra um livro
 
 ### 6.1 Terminologia 
 
-* Contests: É o nome adequado para as competições
-* 
+* Contests: É o nome adequado para as competições;
+* Submissão: É o envio de um código para ser julgado;
+* Casos de teste: testes que as submissões são submetidas;
+* uDebug: Um site que tem casos de teste adicionais;
+* uHunt: Rastreia seu progresso;
+* ICPC: A competição mundial de programação competitiva.
+
+Obs: Alguns termos específicos podem ser encontrados dentro dos problemas.
 
 ### 6.2 Tipos de tela (para tarefas comuns)
 
 No UVa, todas as páginas possuem como padrão uma barra lateral à esquerda.
-<img src="../../assets/uva/Lateral_Esquerda_Uva.png">
+
+<p align="center">
+  <img src="../../assets/uva/Lateral_Esquerda_Uva.png">
+  <p align="center">Figura 9: Barra lateral do UVa.</p>
+</p>
 
 
 ### 6.3 Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
@@ -130,3 +156,5 @@ No UVa, todas as páginas possuem como padrão uma barra lateral à esquerda.
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |11/10/2020|1.0| Criação do documento |Sérgio Cipriano e Washington Bispo|
+|12/10/2020|1.1| Criação das figuras |Sérgio Cipriano e Washington Bispo|
+|13/10/2020|2.0| Primeira versão completa do documento |Sérgio Cipriano e Washington Bispo|
