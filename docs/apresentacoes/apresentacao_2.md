@@ -27,4 +27,3 @@
 |04/09/2020|1.0|Gravação da apresentação|Sérgio Cipriano, Washington Bispo, Paulo Batista|
 |04/09/2020|1.1|Edição do vídeo e criação do página no github pages|Washington Bispo|
 |05/09/2020|1.2|Adição de tarefa concluida|Sérgio Cipriano|
-
