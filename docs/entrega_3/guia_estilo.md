@@ -100,7 +100,7 @@ a nova plataforma que está sendo desenvolvida. À direita ele encontra um livro
 
 ### 4.2 Aceleradores (teclas de atalho)
 
-<p align="justify"> &emsp;&emsp; Não possui nenhum tipo de acelerador</p>
+<p align="justify"> &emsp;&emsp; Não possui nenhum tipo de acelerador.</p>
 
 ## 5. Elementos de ação 
 
