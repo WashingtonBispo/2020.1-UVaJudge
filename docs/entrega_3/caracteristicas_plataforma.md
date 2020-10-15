@@ -10,7 +10,7 @@
 
 ## 3. Características negativas
 
-<p align="justify"> &emsp;&emsp; Quando analisamos de forma mais crítica, a aplicação falha em grande parte dos aspectos de usabilidade, o site é organizado forma pouco intuitiva, quando é enviado uma submissão o usuário não é redirecionado automaticamente, entre outros problemas. Mais detalhes podem ser encontrados na <a href="../../../entrega_1/planejamentos_individuais/planejamento_uva/">avaliação individual</a> feita pelo Sérgio Cipriano, nela foram feitas várias avaliações com o uso de variados métodos visando entender melhor os problemas apresentados no sistema.</p>
+<p align="justify"> &emsp;&emsp; Quando analisamos de forma mais crítica, a aplicação falha em grande parte dos aspectos de usabilidade. O site é organizado de forma pouco intuitiva, quando é enviado uma submissão o usuário não é redirecionado automaticamente, entre outros problemas. Mais detalhes podem ser encontrados na <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_1/avaliacoes_individuais/avaliacao_uva/">avaliação individual</a> feita pelo Sérgio Cipriano, nela foram feitas várias avaliações com o uso de variados métodos visando entender melhor os problemas apresentados no sistema.</p>
 
 ## 4. Bibliografia
 
@@ -21,3 +21,4 @@
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |14/10/2020|1.0|Criação do documento|Sérgio Cipriano e Washington Bispo|
+|15/10/2020|1.1|Correção do link da avaliação individual|Sérgio Cipriano|
