@@ -1,6 +1,10 @@
 # Questionário
 
-<!-- Resultados -->
+## 1. Introdução
+
+<p align="justify"> &emsp;&emsp; Nosso objetivo é entender mais sobre o usuário, fazemos perguntas como Quem são? Qual a tarefa dos usuários no sistema? Como eles as realizam? É possível realizar sem problemas? Entre outras. Segue no tópico dois respostas detalhadas. </p>
+
+## 2. Respostas
 
 <!-- Voce ja utilizou o Uva? -->
 <img  src="https://i.imgur.com/x1uYBxm.png" class="center" width="2000", height = "1800">
@@ -23,10 +27,10 @@
 <!-- Frequência de uso do UVa -->
 <img  src="https://i.imgur.com/SSdTYXQ.png" class="center" width="2000", height = "1800">
 
-
-
-## 1. Versionamento
+## 3. Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
-|04/10/2020|1.0| Resultados do questionário |Washington Bispo|
+|01/10/2020|1.0|Criação do questionário|Sérgio Cipriano|
+|04/10/2020|1.1|Resultados do questionário|Washington Bispo|
+|17/10/2020|1.2|Refinamento do documento|Sérgio Cipriano|
