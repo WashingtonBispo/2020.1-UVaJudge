@@ -64,7 +64,7 @@
 |12|Estudar algoritmos de programação competitiva. Sim|
 |13|Não|
 
-### 3.2 Entrevistado 3
+### 3.3 Entrevistado 3
 
 |Pergunta|Resposta|
 |:-:|:-:|
@@ -82,7 +82,7 @@
 |12|Eu respondia questões de lá. Senti dificuldades em achar questões específicas|
 |13|Não|
 
-### 3.2 Entrevistado 4
+### 3.4 Entrevistado 4
 
 |Pergunta|Resposta|
 |:-:|:-:|
@@ -99,6 +99,25 @@
 |11|Muito ruim, não conseguia me localizar no site|
 |12|Resolver questões do CP3,  tive problemas com login algumas vezes. Nem sempre a ferramenta de recuperar senha funcionou comigo|
 |13|Sim|
+
+### 3.5 Entrevistado 5
+
+|Pergunta|Resposta|
+|:-:|:-:|
+|1|Masculino|
+|2|41|
+|3|Professor|
+|4|Doutor|
+|5|Apenas o português|
+|6|Sem resposta|
+|7|Sim|
+|8|Sim|
+|9|Sim|
+|10|Sim, Recomendação do professor Humberto Longo|
+|11|Positiva|
+|12|Falta de precisão na descrição dos inputs/outputs|
+|13|Sim|
+
 
 ## 4. Versionamento
 
