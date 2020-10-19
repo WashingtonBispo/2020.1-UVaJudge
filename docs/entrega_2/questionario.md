@@ -3,6 +3,7 @@
 ## 1. Introdução
 
 <p align="justify"> &emsp;&emsp; Nosso objetivo é entender mais sobre o usuário, fazemos perguntas como Quem são? Qual a tarefa dos usuários no sistema? Como eles as realizam? É possível realizar sem problemas? Entre outras. Segue no tópico dois respostas detalhadas. </p>
+<p align="justify"> &emsp;&emsp; Vale apontar que os usuários que não conhecem o UVa responderam apenas a primeira questão, desse modo, o restante das perguntas apresenta um decréscimo no número de respostas.</p>
 
 ## 2. Respostas
 

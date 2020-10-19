@@ -10,10 +10,10 @@
 
 | Características | Perfil A | Perfil B |
 |-|-|-|
-| Percentual de pessoas no perfil | 32.5%              | 67.5%          |
-| Faixa etária                    | 18 até 22 anos     | 18 até 40 anos |
-| Número de pessoas no perfil     | 14                 | 29             |
-| Usuários ativos do UVa          | 11                 | 0              |
+| Percentual de pessoas no perfil | 50.1%              | 49.9%          |
+| Faixa etária                    | 18 até 41 anos     | 18 até 40 anos |
+| Número de pessoas no perfil     | 28                 | 27             |
+| Usuários ativos do UVa          | 17                 | 0              |
 | Gênero predominante             | masculino          | masculino      |
 | Idiomas                         | inglês e português | português      |
 
@@ -24,4 +24,4 @@
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |04/10/2020|1.0|Primeira versão do perfil de usuário|Sérgio Cipriano e Washington Bispo|
-|04/10/2020|2.0|Correção na quantidade de pessoas por perfil e adicionando novos dados coletados|Sérgio Cipriano|
+|17/10/2020|2.0|Correção na quantidade de pessoas por perfil e adicionando novos dados coletados|Sérgio Cipriano|
