@@ -6,9 +6,9 @@
 
 ## 2. Respostas Gráficas
 
-<img src="../../assets/questionario/questionario2_parte1.jpg">
-<img src="../../assets/questionario/questionario2_parte2.jpg">
-<img src="../../assets/questionario/questionario2_parte3.jpg">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/c9bb1e7960dfebb85c18d935883f225b6daae600/docs/assets/questionario/questionario2_parte1.jpg">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/c9bb1e7960dfebb85c18d935883f225b6daae600/docs/assets/questionario/questionario2_parte2.jpg">
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/c9bb1e7960dfebb85c18d935883f225b6daae600/docs/assets/questionario/questionario2_parte3.jpg">
 
 ## 3. Versionamento
 
