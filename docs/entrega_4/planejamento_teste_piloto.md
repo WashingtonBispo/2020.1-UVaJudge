@@ -34,7 +34,7 @@
 
 ### 4.2 PDF
 
-<a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/ae3207c407784e0b105c63a8af1855fa2ef18145/docs/assets/teste_piloto/Termo_de_Consentimento.jpg">Clique para acessar!</a>
+<a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/b12d472c9523ebac98250898f67cb3b9ded863e6/docs/assets/teste_piloto/Termo_de_Consentimento.jpg">Clique para acessar!</a>
 
 ## 5. Perguntas
 
@@ -51,3 +51,4 @@
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |26/10/2020|1.0|Criando introdulçao e metodologia|Sérgio Cipriano|
+|27/10/2020|2.0|Criando termo, perguntas e adicionando bibliografia|Sérgio Cipriano|
