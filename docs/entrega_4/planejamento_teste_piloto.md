@@ -70,5 +70,5 @@
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
-|26/10/2020|1.0|Criando introdulçao e metodologia|Sérgio Cipriano|
+|26/10/2020|1.0|Criando introdução e metodologia|Sérgio Cipriano|
 |27/10/2020|2.0|Criando termo, perguntas, tarefas e adicionando bibliografia|Sérgio Cipriano|

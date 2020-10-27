@@ -16,5 +16,6 @@
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
-|18/10/2020|1.0|Criação do questionário|Sérgio Cipriano e Washington Bispo|
-|26/10/2020|1.1|Rearranjando tabelas|Sérgio Cipriano|
+|17/10/2020|1.0|Criação das perguntas|Sérgio Cipriano|
+|18/10/2020|1.1|Criação do questionário|Sérgio Cipriano e Washington Bispo|
+|26/10/2020|1.2|Rearranjando tabelas|Sérgio Cipriano|
