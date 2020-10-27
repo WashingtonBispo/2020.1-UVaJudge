@@ -44,8 +44,8 @@ a nova plataforma que está sendo desenvolvida. À direita ele encontra um livro
   <p align="center">Figura 2: Exemplo de aba vazia/sem conteúdo.</p>
 </p>
 
-<p align="justify"> &emsp;&emsp; Esses problemas são causados por um excesso de informações datadas ou não trabalhadas. Desse modo, para corrigir essas falhas, será resuzido a quantidade de informações apresentando apenas os pontos principais e funcionais. Algumas dessas janelas vazias possuem ideias interessantes, mas falham em aplicar essa ideia no conteúdo visto que estão vazias.</p>
-<p align="justify"> &emsp;&emsp; A janela Home(inicial) não acrescenta nenhuma informação relavante. Desse modo, iremos dividir o UVa em 3 janelas principais: login, categorias de problemas e submissão de problemas. A janela login será a nova aba principal e, mesmo sem fazer login, todas as demais abas estarão disponíveis. A janela de categorias de problemas será uma reformulação da atual "Browse problems". Tal como dito na avaliação, um dos principais problemas do UVa é a desorganização dos problemas, assim, o objetivo da reformulação por categorias é resolver essa falha. Por fim, a janela de submissões visa melhorar o feedback das respostas de cada problema. Atualmente, é necessário acessar outra aba para ver a resposta da submissão, já, no modelo que criamos na Figura 4, tudo ocorrerá na mesma janela.</p>
+<p align="justify"> &emsp;&emsp; Esses problemas são causados por um excesso de informações datadas ou não trabalhadas. Desse modo, para corrigir essas falhas, será resuzido a quantidade de informações, apresentando apenas os pontos principais e funcionais. Algumas dessas janelas vazias possuem ideias interessantes, mas falham em aplicar essa ideia no conteúdo visto que estão vazias.</p>
+<p align="justify"> &emsp;&emsp; A janela Home(inicial) não acrescenta nenhuma informação relavante. Desse modo, iremos dividir o UVa em 3 janelas principais: login, categorias de problemas e submissão de problemas. A janela login será a nova aba principal e, mesmo sem fazer login, todas as demais abas estarão disponíveis. A janela de categorias de problemas será uma reformulação da atual "Browse problems". Tal como dito na avaliação, um dos principais problemas do UVa é a desorganização dos problemas, assim, o objetivo da reformulação por categorias é resolver essa falha. Por fim, a janela de submissões visa melhorar o feedback das respostas de cada problema. Atualmente, é necessário acessar outra aba para ver a resposta da submissão, já no modelo que criamos na Figura 4, tudo ocorrerá na mesma janela.</p>
 <p align="justify"> &emsp;&emsp; Segue abaixo os grids que criamos para cada janela principal.</p>
 
 <p align="center">
@@ -75,21 +75,19 @@ a nova plataforma que está sendo desenvolvida. À direita ele encontra um livro
 * **Trebuchet MS** <br>
 <img  src="https://cdn.discordapp.com/attachments/752587900377628756/764935808309788682/unknown.png" class="left">
 
-### 3.4 Símbolos não tipográficos 
+### 3.4 Símbolos não tipográficos
+
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/752587900377628756/764936749079068672/unknown.png">
   <img src="https://cdn.discordapp.com/attachments/752587900377628756/764938204091908116/unknown.png">
   <p align="center">Figura 6: Símbolos não tipográficos do UVa.</p>
 </p>
-<br><br><br>
 
 ### 3.5 Cores
 
 <p align="center">
   <img src="../../assets/uva/cores_uva.png">
   <p align="center">Figura 7: Cores do UVa.</p>
-</p>
-
 </p>
 
 ## 4. Elementos de interação 
@@ -159,3 +157,4 @@ No UVa, todas as páginas possuem como padrão uma barra lateral à esquerda.
 |12/10/2020|1.1|Criação das figuras|Sérgio Cipriano e Washington Bispo|
 |13/10/2020|2.0|Primeira versão completa do documento|Sérgio Cipriano e Washington Bispo|
 |14/10/2020|2.1|Atualização na bibliografia|Sérgio Cipriano|
+|21/10/2020|2.2|Deletando tags br|Sérgio Cipriano|

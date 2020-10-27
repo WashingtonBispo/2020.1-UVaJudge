@@ -8,7 +8,7 @@
 
 ## 2. Perguntas
 
-<p align="justify"> &emsp;&emsp; Foram criadas um número variado de perguntas para diversos tipos de usuário. Sendo assim, conforme o desenrolar da entrevista, algumas perguntas foram retiradas pois já não se adequavam ao contexto do entrevistado. Por fim, não será exposto aqui o nome de nenhum entrevistado por questões de privacidade. Segue abaixo todas as perguntas</p>
+<p align="justify"> &emsp;&emsp; Foram criadas um número variado de perguntas para diversos tipos de usuário. Sendo assim, conforme o desenrolar da entrevista, algumas perguntas foram retiradas pois já não se adequavam ao contexto do entrevistado. Por fim, não será exposto aqui o nome de nenhum entrevistado por questões de privacidade. Segue abaixo todas as perguntas:</p>
 
 1. Que gênero você se identifica?
 2. Quantos anos você tem?
