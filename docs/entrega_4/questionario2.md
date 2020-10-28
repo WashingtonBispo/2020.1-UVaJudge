@@ -6,45 +6,45 @@
 
 ## 2. Respostas Gráficas
 
-<img src="assets/questionario2/quest_2_p1.png">
+<img src="../assets/questionario2/quest_2_p1.png">
 
-<img src="./assets/questionario2/quest_2_p2.png">
+<img src="../assets/questionario2/quest_2_p2.png">
 
 <img src="../assets/questionario2/quest_2_p3.png">
 
-<img src="/assets/questionario2/quest_2_p4.png">
+<img src="../assets/questionario2/quest_2_p4.png">
 
-<img src="/assets/questionario2/quest_2_p5.png">
+<img src="../assets/questionario2/quest_2_p5.png">
 
-<img src="/assets/questionario2/quest_2_p6.png">
+<img src="../assets/questionario2/quest_2_p6.png">
 
-<img src="/assets/questionario2/quest_2_p7.png">
+<img src="../assets/questionario2/quest_2_p7.png">
 
-<img src="/assets/questionario2/quest_2_p8.png">
+<img src="../assets/questionario2/quest_2_p8.png">
 
-<img src="/assets/questionario2/quest_2_p9.png">
+<img src="../assets/questionario2/quest_2_p9.png">
 
-<img src="/assets/questionario2/quest_2_p10.png">
+<img src="../assets/questionario2/quest_2_p10.png">
 
-<img src="/assets/questionario2/quest_2_p11.png">
+<img src="../assets/questionario2/quest_2_p11.png">
 
-<img src="/assets/questionario2/quest_2_p12.png">
+<img src="../assets/questionario2/quest_2_p12.png">
 
-<img src="/assets/questionario2/quest_2_p13.png">
+<img src="../assets/questionario2/quest_2_p13.png">
 
-<img src="/assets/questionario2/quest_2_p14.png">
+<img src="../assets/questionario2/quest_2_p14.png">
 
-<img src="/assets/questionario2/quest_2_p15.png">
+<img src="../assets/questionario2/quest_2_p15.png">
 
-<img src="/assets/questionario2/quest_2_p16.png">
+<img src="../assets/questionario2/quest_2_p16.png">
 
-<img src="/assets/questionario2/quest_2_p17.png">
+<img src="../assets/questionario2/quest_2_p17.png">
 
-<img src="/assets/questionario2/quest_2_p18.png">
+<img src="../assets/questionario2/quest_2_p18.png">
 
-<img src="/assets/questionario2/quest_2_p19.png">
+<img src="../assets/questionario2/quest_2_p19.png">
 
-<img src="/assets/questionario2/quest_2_p20.png">
+<img src="../assets/questionario2/quest_2_p20.png">
 
 
 ## 3. Versionamento
