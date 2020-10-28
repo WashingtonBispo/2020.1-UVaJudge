@@ -20,9 +20,9 @@ width="230", height = "200">
 <img align="left"
 src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/53b6012c68d182a6f7419c4b8645d1a49049f007/docs/assets/storyboard/volume_2.jpeg"
 width="230", height = "200">
-<img align="left"
-src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/53b6012c68d182a6f7419c4b8645d1a49049f007/docs/assets/storyboard/volume_3.jpeg"
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/53b6012c68d182a6f7419c4b8645d1a49049f007/docs/assets/storyboard/volume_3.jpeg"
 width="230", height = "200">
+
 
 ### 3.2 Motivações para utilizar o UVa
 
@@ -60,3 +60,4 @@ BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora
 |:-:|:-:|:-:|:-:|
 |27/10/2020|1.0|Criação do documento e dos tópicos 3.1 e 5|Sérgio Cipriano|
 |27/10/2020|1.1|Tópicos 1, 2, 3.2, 3.3 e 4|Washington Bispo|
+|28/10/2020|1.1|Arrumando formatação do tópico 3.2 |Washington Bispo|
