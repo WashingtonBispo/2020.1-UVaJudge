@@ -6,11 +6,11 @@
 
 ## 2. Respostas Gráficas
 
-<img src="/assets/questionario2/quest_2_p1.png">
+<img src="assets/questionario2/quest_2_p1.png">
 
-<img src="/assets/questionario2/quest_2_p2.png">
+<img src="./assets/questionario2/quest_2_p2.png">
 
-<img src="/assets/questionario2/quest_2_p3.png">
+<img src="../assets/questionario2/quest_2_p3.png">
 
 <img src="/assets/questionario2/quest_2_p4.png">
 
