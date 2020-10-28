@@ -20,10 +20,9 @@ width="230", height = "200">
 <img align="left"
 src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/53b6012c68d182a6f7419c4b8645d1a49049f007/docs/assets/storyboard/volume_2.jpeg"
 width="230", height = "200">
-<img align="left"
-src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/53b6012c68d182a6f7419c4b8645d1a49049f007/docs/assets/storyboard/volume_3.jpeg"
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/53b6012c68d182a6f7419c4b8645d1a49049f007/docs/assets/storyboard/volume_3.jpeg"
 width="230", height = "200">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 ### 3.2 Motivações para utilizar o UVa
 
