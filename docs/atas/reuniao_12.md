@@ -4,7 +4,7 @@
 
 ```
 Reunião 12
-Data: 28/09/2020
+Data: 28/10/2020
 Duração: 60 minutos
 ```
 
