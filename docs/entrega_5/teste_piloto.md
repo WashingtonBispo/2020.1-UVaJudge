@@ -1,4 +1,4 @@
-# Planejamento do Teste Piloto
+# Teste Piloto
 
 ## 1. Introdução
 
@@ -20,27 +20,11 @@
 
 ## 4. Termo de consentimento
 
-<p align="justify"> &emsp;&emsp; A versão apresentada ao usuário é a versão em PDF. O modelo em markdown serve para deixar disponível o conteúdo escrito de forma que, para executar futuras alterações, não é necessário ter acesso de edição ao documento PDF.</p>
-
-### 4.1 Markdown
-
-<p align="justify"> &emsp;&emsp; Somos estudantes do curso de Engenharia de Software da UnB-Gama  que estamos fazendo uma análise a respeito do site UVa para a disciplina Interação Humano Computador da UnB, ministrada pelo professor André Barros.</p>
-<p align="justify"> &emsp;&emsp; O objetivo dessa entrevista é de coletar dados para avaliar os storyboards e as análises de tarefas feitas, até então, por nós, grupo 09 - UVa online judge. Ao fazer essa entrevista você concorda com a:</p>
-
-1. Divulgação das respostas obtidas;
-2. Divulgação da gravação da entrevista (áudio e vídeo);
-3. Duração de média de 25 minutos;
-4. Disponibilização da gravação para o youtube em formato não-listado (apenas aqueles com link podem acessar o conteúdo).
-
-<p align="justify"> &emsp;&emsp; Por fim, é importante ressaltar que nossos objetivos são exclusivamente acadêmicos e sem nenhum fim lucrativo. Desse modo, caso esteja de acordo com tudo que foi estabelecido aqui, o participante deverá dizer ao ínicio da gravação "Eu li e concordo com o termo de consentimento".</p>
-
-### 4.2 PDF
-
 <a href="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/b12d472c9523ebac98250898f67cb3b9ded863e6/docs/assets/teste_piloto/Termo_de_Consentimento.pdf">Clique para acessar!</a>
 
 ## 5. Perguntas
 
-<p align="justify"> &emsp;&emsp; As perguntas servem para identificar em qual perfil de usuário o entrevistado se encaixa. Segue abaixo a lista de perguntas:</p>
+<p align="justify"> &emsp;&emsp; As perguntas servem para identificar em qual perfil de usuário o entrevistado se encaixa. Segue abaixo a lista de perguntas definidas no planejamento, seguidas de suas respostas:</p>
 
 1. Qual seu nome?
 2. Qual sua idade?
@@ -58,9 +42,9 @@
 14. Qual foi a última vez que utilizou o UVa?
 15. Porque você usa o UVa? (Porque você não usa o UVa?)
 
-## 6. Tarefas
+## 6. Testes Piloto
 
-<p align="justify"> &emsp;&emsp; O entrevistador deve pedir para que o usuário mostre como ele executa suas tarefas no dia a dia e com que objetivos. Baseado no perfil de usuário definido pelas respostas da seção anteriorm, o entrevistador deve selecionar a persona com perfil mais próximo ao do entrevistado e comparar se a execução das tarefas se assemelham, entender o porquê das diferenças e, por fim, definir em quais pontos a análise hierárquica deve ou não sofrer alterações. </p>
+ADICIONAR VÍDEOS AQUI
 
 ## 7. Bibliografia
 
@@ -72,6 +56,4 @@
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
-|26/10/2020|1.0|Criando introdução e metodologia|Sérgio Cipriano|
-|27/10/2020|2.0|Criando termo, perguntas, tarefas e adicionando bibliografia|Sérgio Cipriano|
-|09/11/2020|3.0|Aprimorando seções 1, 2 e 3 baseado no feedback do professor e dos monitores|Sérgio Cipriano|
+|09/11/2020|1.0|Criação da versão inicial do documento com os tópicos 1, 2, 3, 4, 5, 6 e 7|Sérgio Cipriano|

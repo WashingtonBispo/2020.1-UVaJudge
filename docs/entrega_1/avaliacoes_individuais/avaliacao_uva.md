@@ -57,6 +57,7 @@ Efeito sobre usuário: Confusão.
 Efeito sobre tarefa:  Nenhum.
 Correção possível:    Remodelar completamente a maneira como os dados são apresentados. Apresentar apenas o essencial.
 ```
+
 ### 4.3 Controle do usuário e liberdade
 
 ```
@@ -69,6 +70,7 @@ Efeito sobre usuário: Descaso, uma aba inútil está sendo disponibilizada.
 Efeito sobre tarefa:  Falta de informação.
 Correção possível:    Fornecer informação sobre as estatísticas do site.
 ```
+
 ### 4.4 Consistência e padrões
 
 ```
@@ -94,6 +96,7 @@ Efeito sobre usuário: Nenhum.
 Efeito sobre tarefa:  Nenhum.
 Correção possível:    Nenhuma.
 ```
+
 ### 4.6 Reconhecimento ao invés de lembrança
 
 ```
@@ -119,6 +122,7 @@ Efeito sobre usuário: Afasta usuários que não participam de ambientes de comp
 Efeito sobre tarefa:  Exclusão.
 Correção possível:    Apresentar um guia básico descrevendo como funciona o mundo das maratonas de programação.
 ```
+
 ### 4.8 Estética e design minimalista
 
 ```
@@ -144,6 +148,7 @@ Efeito sobre usuário: Confusão e desinformação.
 Efeito sobre tarefa:  Nenhum.
 Correção possível:    Filtrar melhor contribuições de novas informações.
 ```
+
 ### 4.10 Ajuda e documentação
 
 ```
@@ -156,7 +161,6 @@ Efeito sobre usuário: Usuário fica perdido caso ocorra algum problema.
 Efeito sobre tarefa:  Impossível de ser completada.
 Correção possível:    Fornecer um fórum para tirar dúvidas, um fórum aberto fomentaria mais discussões e novas soluções.
 ```
-
 
 ## 5. Versionamento
 
