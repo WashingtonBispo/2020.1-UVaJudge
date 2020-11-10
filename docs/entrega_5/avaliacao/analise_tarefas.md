@@ -1,4 +1,4 @@
-# Avaliação análise de tarefas
+# Análise de tarefas
 
 ## 1. Introdução
 
@@ -6,7 +6,7 @@
 
 ## 2. Metas de Usabilidade
 
-### 2.1 Usabilidade do UVa
+### 2.1 Avaliação
 
 <p align="justify"> &emsp;&emsp; De acordo com Jakob Nielsen (1993), existem 6 metas de usabilidade, elas são eficácia, eficiência, segurança, utilidade, aprendizagem e memorização. Segue abaixo uma avaliação baseada nessas metas de usabilidade.</p>
 
@@ -19,6 +19,10 @@ ajudar o usuário a encontrar um caso de teste que falha.
 5. Aprendizagem: Não há nenhum tipo de auxilio à novos usuários na plataforma.
 6. Memorização: O usuário consegue se lembrar como as tarefas são feita após um tempo sem usar o sistema.
 
+### 2.2 Relato dos resultados
+
+<p align="justify"> &emsp;&emsp; As análises de tarefas mostram-se boas para catalogar as metas de usabilidade. Ademais, são ótimas para se entender melhor sobre as personas, isso porque, na análise de tarefas é mostrado como cada persona atua para atingir os seus objetivos.</p>
+
 ## 3. Objetivos da avaliação
 
 <p align="justify"> &emsp;&emsp; Durante o planejamento foram feitas perguntas para definir os objetivos da avaliação. Segue abaixo as respostas obtidas durante nossa avaliação.</p>
@@ -26,11 +30,11 @@ ajudar o usuário a encontrar um caso de teste que falha.
 1. Os erros diagnosticados na análise de tarefas foram também identificados nos testes-piloto? Não.
 2. As atividades dos usuários foram devidamente identificadas na avaliação? Sim.
 3. Os objetivos das personas estão fiéis ao nosso perfil de usuário e aos dados coletados nas entrevitas e avaliações?  Sim, as personas definem bem quais são nossos possíveis usuários.
-4. O erro encontrado na análise de tarefas da Maria lee Oliveira foi relatado durante o teste-piloto? Não, Maria Lee encontrou o banco de questões que estava buscando.
+4. O erro encontrado na <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_2/analise_tarefas/#321-maria-lee-oliveira">análise de tarefas da Maria lee Oliveira</a> foi relatado durante o teste-piloto? Não, Maria Lee encontrou o banco de questões que estava buscando.
 
 ## 4. Avaliações heurísticas
 
-### 4.1 Status do sistema
+### Status do sistema
 
 ```
 Verificação: Qual boa é disponibilidade do sistema?, seus links são funcionais?          
@@ -44,7 +48,7 @@ Correção possível: Informar sobre atualizações, melhorar o tempo que demora
 site se recuperar, consertar os links quebrados.    
 ```
 
-### 4.2 Compatibilidade do sistema com o mundo real
+### Compatibilidade do sistema com o mundo real
 
 ```
 Verificação: A estrutura do site é algo compatível com
@@ -59,7 +63,7 @@ Efeito sobre tarefa: Dificuldade inicial.
 Correção possível: Criar uma página que explica o site.   
 ```
 
-### 4.3 Controle do usuário e liberdade
+### Controle do usuário e liberdade
 
 ```
 Verificação: O nível de liberdade do usuário é o adequado?          
@@ -74,7 +78,7 @@ Efeito sobre tarefa: Dificuldade em iniciar a tarefa.
 Correção possível: Organizar e classificar o banco de problemas.
 ```
 
-### 4.4 Consistência e padrões
+### Consistência e padrões
 
 ```
 Verificação: Os itens são agrupados logicamente e os padrões de formatação são
@@ -90,7 +94,7 @@ Correção possível: Criar um hiperlink que leva o usuário ao
 banco de questões.   
 ```
 
-### 4.5 Prevenção de erros
+### Prevenção de erros
 
 ```
 Verificação: O site consegue ajudar o usuário a se prevenir dos erros?          
@@ -104,7 +108,7 @@ Efeito sobre tarefa: Dificulta a realização, pode causa a desistência.
 Correção possível: Checar previamente se é um arquivo válido.   
 ```
 
-### 4.6 Reconhecimento ao invés de lembrança
+### Reconhecimento ao invés de lembrança
 
 ```
 Verificação: O usuário consegue se familiarizar de forma eficiente?         
@@ -118,7 +122,7 @@ Efeito sobre tarefa: Pode fazer o usuário desistir da tarefa.
 Correção possível: Facilitar alguns acessos do site.   
 ```
 
-### 4.7 Flexibilidade e eficiência de uso
+### Flexibilidade e eficiência de uso
 
 ```
 Verificação: O site consegue se adequar ao nível do usuário?        
@@ -131,7 +135,7 @@ Efeito sobre tarefa:  Desistência
 Correção possível: Criar um caminho para novos usuários  
 ```
 
-### 4.8 Estética e design minimalista
+### Estética e design minimalista
 
 ```
 Verificação: Há unidades de informação desnecessárias?           
@@ -145,7 +149,7 @@ Efeito sobre tarefa: Dificuldade em realizar elas.
 Correção possível: Diminuir a quantidade de informações. 
 ```
 
-### 4.9 Ajudar usuários a reconhecer, diagnosticar e corrigir erros
+### Ajudar usuários a reconhecer, diagnosticar e corrigir erros
 
 ```
 Verificação: Quando encontrado um erro, o usuário consegue se recuperar
@@ -162,7 +166,7 @@ Correção possível: Utilizar um método que permita voltar às páginas
 anteriores, checar se o arquivo é compatível.  
 ```
 
-### 4.10 Ajuda e documentação
+### Ajuda e documentação
 
 ```
 Verificação: A aplicação auxilia caso o usuário precise de ajuda?         
@@ -175,6 +179,12 @@ Efeito sobre tarefa: Desistência.
 Correção possível: Colocar mais maneiras de falar com eles.
 ```
 
+### Relato dos resultados
+
+<p align="justify"> &emsp;&emsp; Nessa avaliação o objetivo era catalogar quantos e quais erros eram possíveis de averiguar pelo storyboard. Como demonstrado, foram catalogados erros semelhantes aos encontrados na <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_1/avaliacoes_individuais/avaliacao_uva/">primeira avaliação do UVa</a> tal como ocorreu no relato dos resultados do storyboard.</p>
+
+<p align="justify"> &emsp;&emsp; Entretanto, diferente do que ocorreu na avaliação do storyboard, nessa avaliação foi possível catalogar erros de todas as 10 heurísticas. Assim, é possível chegar a dois entendimentos: (i) As análises de tarefas agregam dados essenciais no reconhecimento de erros do UVa, (ii) e esse resultado valida a visão de adicionar novos storyboards (visão essa que foi abordada <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge//entrega_5/avaliacao/storyboard/#22-relato-dos-resultados">aqui</a>)</p>
+
 ## 5. Versionamento
 
 |Data|Versão|Descrição|Autor|
@@ -182,3 +192,4 @@ Correção possível: Colocar mais maneiras de falar com eles.
 |09/11/2020|1.0|Criação da versão inicial do documento com os tópicos 1, 2, 3 e 4|Sérgio Cipriano|
 |09/11/2020|1.1|Preenchimento da avaliação heuristica|Washington Bispo|
 |10/11/2020|1.2|Modificado os tópicos 2.1 e 3|Washington Bispo|
+|10/11/2020|1.3|Fundindo os documentos de avaliação e relato de resultados em um só|Sérgio Cipriano|

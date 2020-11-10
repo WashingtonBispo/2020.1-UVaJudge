@@ -6,8 +6,6 @@
 
 <p align="justify"> &emsp;&emsp; Para a criação de um perfil de usuário, foram feitas entrevistas via chat de texto. Dessa vez, buscamos um contato mais pessoal e serão feitas entrevistas por meio de vídeo chamadas.</p>
 
-<p align="justify"> &emsp;&emsp; O teste será feito para avaliar as análises de tarefas e os storyboards, tal como planejado na entrega 4.</p>
-
 ## 2. Objetivos
 
 <p align="justify"> &emsp;&emsp; Iremos avaliar o quão fiel à realidade está as análises de tarefas e se as personas analisadas apresentam objetivos concretos e parelhos com suas ações. Ademais, iremos utilizar os grids(criados no tópico 3.1 do guia de estilo) para analisar se as melhorias sugeridas são de fato benéficas ao usuário. Desse modo, nesse documento iremos detalhar como será feita essa coleta de dados que visa identificar as principais falhas de usabilidade no dia a dia do usuário. Por fim, analisaremos os storyboards, onde o objetivo é validar a qualidade das informações obtidas por eles.</p>

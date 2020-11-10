@@ -45,14 +45,11 @@ nav:
             - Storyboard: entrega_4/storyboard.md
             - Planejamento da Avaliação: entrega_4/planejamento_avaliacao.md
             - Planejamento do Teste Piloto: entrega_4/planejamento_teste_piloto.md
-            - Teste Piloto: entrega_5/teste_piloto.md
-            - Avaliação:
-                - Storyboard: entrega_5/avaliacao/analise_tarefas.md
-                - Análise de Tarefas: entrega_5/avaliacao/storyboard.md
-            - Relato dos Resultados:
-                - Storyboard: entrega_5//relato_resultados/analise_tarefas.md
-                - Análise de Tarefas: entrega_5/relato_resultados/storyboard.md
+            - Avaliação e Relato dos Resultados:
+                - Storyboard: entrega_5/avaliacao/storyboard.md
+                - Análise de Tarefas: entrega_5/avaliacao/analise_tarefas.md
         - Nível 2:
+            - Teste Piloto: entrega_5/teste_piloto.md
             - Protótipo de Papel:
                 - Protótipo de Papel: entrega_5/prototipo_papel/prototipo.md
                 - Planejamento da Avaliação: entrega_5/prototipo_papel/planejamento_avaliacao.md
