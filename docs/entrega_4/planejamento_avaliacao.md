@@ -8,15 +8,20 @@
 
 <p align="justify"> &emsp;&emsp; Os objetivos serão expostos por meio de um conjunto de perguntas, segue abaixo as perguntas.</p>
 
-1. Os percursos cognitivos identificados correspondem com as atividades executadas nas análises de tarefas?
-2. O grid apresentado no Guia de Estilo apresenta melhorias eficientes?
-3. Os erros diagnosticados nas avaliações individuais foram também identificados nos testes-piloto?
-4. As atividades dos usuários foram devidamente identificadas?
-5. Como os usuários realizam essas atividades segue o modelo trabalhado na análise CMN-GOMS?
-6. Os objetivos das personas estão fiéis ao nosso perfil de usuário e aos dados coletados nas entrevitas e testes-piloto?
-7. Os princípios gerais estão claros e bem definidos?
-8. O erro encontrado na análise de tarefas da Maria lee Oliveira foi relatado durante o teste-piloto?
-9. Os entrevistados conseguem se identificar com alguma história contada nos storyboards?
+### 2.1 Perguntas Análise de tarefas
+
+1. Os erros diagnosticados na análise de tarefas foram também identificados nos testes-piloto?
+2. As atividades dos usuários foram devidamente identificadas na avaliação?
+3. Os objetivos das personas estão fiéis ao nosso perfil de usuário e aos dados coletados nas entrevitas e avaliações?
+4. O erro encontrado na análise de tarefas da Maria lee Oliveira foi relatado durante o teste-piloto?
+
+### 2.2 Perguntas Storyboard
+
+1. Os erros diagnosticados nos storyboards foram também identificados nos testes-piloto?
+2. As atividades dos usuários foram devidamente identificadas na avaliação?
+3. Os objetivos das personas são refletidos nos storyboards?
+4. Os participantes do teste-piloto conseguem se identificar com alguma história contada nos storyboards?
+5. As personas executam atividades presentes storyboards?
 
 ## 3. Metodologia
 
@@ -26,11 +31,15 @@
 
 ## 4. Relato dos resultados
 
-<p align="justify"> &emsp;&emsp; Os relatos vão ser colocados em um documento criado futuramente, nesse documento a ser gerado iremos colocar as respostas para as perguntas definidas na Seção 2. Os dados quantitativos obtidos serão colocados em forma de gráficos, enquantos os dados qualititativos serão expressos por meios de textos que vão demonstrar a qualidade e defeitos encontrados ao longo da avaliação. Assim, com essa avaliação poderemos definir se seguiremos para o nível 2 da seção de design, avaliação e desenvolvimento do ciclo Mayhew definido no processo de design.</p>
+<p align="justify"> &emsp;&emsp; Os relatos vão ser colocados em um documento criado futuramente, nesse documento a ser gerado iremos colocar as respostas para as perguntas definidas na Seção 2. Os dados serão expressos por meios de textos que vão dissertar sobre as qualidades e os defeitos encontrados ao longo da avaliação. Assim, com essa avaliação poderemos definir se seguiremos para o nível 2 da seção de design, avaliação e desenvolvimento do ciclo Mayhew definido no processo de design.</p>
 
 ## 5. Versionamento
+
+<p align="justify"> &emsp;&emsp; versionamentos iguais para descrições diferentes ocorrem quando o trabalho é feito em equipe, assim, é separado no versionamento apenas por organização.</p>
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |27/09/2020|1.0|Adições nos tópicos 1, 2, 3 e 4|Sérgio Cipriano|
 |27/09/2020|1.0|Adições nos tópicos 3 e 4|Washington Bispo|
+|10/11/2020|1.1|Correção de erros nos tópicos 2.2 e 4|Sérgio Cipriano|
+|10/11/2020|1.1|Adição do tópico 2.1|Washington Bispo|
