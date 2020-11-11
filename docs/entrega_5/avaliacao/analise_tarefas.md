@@ -179,7 +179,7 @@ Efeito sobre tarefa: Desistência.
 Correção possível: Colocar mais maneiras de falar com eles.
 ```
 
-### Relato dos resultados
+### 4.1 Relato dos resultados
 
 <p align="justify"> &emsp;&emsp; Nessa avaliação o objetivo era catalogar quantos e quais erros eram possíveis de averiguar pelo storyboard. Como demonstrado, foram catalogados erros semelhantes aos encontrados na <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_1/avaliacoes_individuais/avaliacao_uva/">primeira avaliação do UVa</a> tal como ocorreu no relato dos resultados do storyboard.</p>
 
@@ -193,3 +193,4 @@ Correção possível: Colocar mais maneiras de falar com eles.
 |09/11/2020|1.1|Preenchimento da avaliação heuristica|Washington Bispo|
 |10/11/2020|1.2|Modificado os tópicos 2.1 e 3|Washington Bispo|
 |10/11/2020|1.3|Fundindo os documentos de avaliação e relato de resultados em um só|Sérgio Cipriano|
+|11/11/2020|1.4|Correção do relato dos resultados|Sérgio Cipriano|
