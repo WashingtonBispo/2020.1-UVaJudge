@@ -5,7 +5,7 @@
 <p align="justify"> &emsp;&emsp; O protótipo de papel é baseado nos conceitos e grids criados no <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_3/guia_estilo/#31-disposicao-espacial-e-grid">guia de estilo</a>. Esses protótipos serão utilizados para facilitar a comunicação entre os membros da equipe e será a ferramenta principal para o teste-piloto.</p>
 
 ## 2. Protótipo de papel
-<p align="justify"> &emsp;&emsp; Uma pequena versão funcional encontra-se nesse <a href="https://www.figma.com/proto/xjI2GD8zXd9QJndJ5nURmS/Untitled?node-id=1%3A2&scaling=min-zoom">lnk/a></p>
+<p align="justify"> &emsp;&emsp; Uma pequena versão funcional encontra-se nesse <a href="https://www.figma.com/proto/xjI2GD8zXd9QJndJ5nURmS/Untitled?node-id=1%3A2&scaling=min-zoom">link</a></p>
 <p align="center">
     <img align="center" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/master/docs/assets/prototipo_papel/login.jpeg">
     <p align="center">Figura 1: Tela de login.</p>
