@@ -2,7 +2,7 @@
 
 ## 1. Contextualização
 
-<p align="justify"> &emsp;&emsp; Nesse documento será planejado a avaliação do protótipo de papel. O protótipo pode ser encontrado <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_5/prototipo_papel/prototipo/">aqui</a>. Essa avaliação almeja validar a qualidade do protótipo de papel para que, assim, possamos fazer um protótipo de alta fidelidade.</p>
+<p align="justify"> &emsp;&emsp; Nesse documento será planejado a avaliação do protótipo de papel. O protótipo pode ser encontrado <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_5/prototipo_papel/prototipo_baixa/">aqui</a>. Essa avaliação almeja validar a qualidade do protótipo de papel para que, assim, possamos fazer um protótipo de alta fidelidade.</p>
 
 ## 2. Objetivos da avaliação
 
