@@ -10,7 +10,7 @@
 
 * <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_5/avaliacao/storyboard/">Avaliação e relato dos resultados do storyboard</a>;
 * <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_5/avaliacao/analise_tarefas/">Avaliação e relato dos resultados da análise de tarefas</a>;
-* <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_5/prototipo_papel/prototipo/">Protótipo de Papel</a>;
+* <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_5/prototipo_papel/prototipo_baixa/">Protótipo de Papel</a>;
 * <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_5/prototipo_papel/planejamento_avaliacao/">Planejamento da avaliação do Protótipo de Papel</a>;
 
 ## 3. Apresentação
