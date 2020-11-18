@@ -12,13 +12,13 @@
 
 * <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_6/prototipo_papel/avaliacao_relato/">Avaliação e relato dos resultados do protótipo de baixa fidelidade</a>;
 * <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_6/prototipo_alta/prototipo/">Protótipo de alta fidelidade</a>;
-* <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_6/prototipo_papel/planejamento_avaliacao/">Planejamento da Avaliação e relato dos resultados do protótipo de alta fidelidade</a>;
+* <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_6/prototipo_alta/planejamento_avaliacao/">Planejamento da Avaliação e relato dos resultados do protótipo de alta fidelidade</a>;
 * <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_6/prototipo_alta/avaliacao_relato/">Avaliação e relato dos resultados do protótipo de alta fidelidade</a>.
 
 ### 2.2 Documentos extras
 
 * <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_6/teste_piloto/">Teste Piloto</a>;
-* <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_4/storyboard/">Adição de mais storyboards</a>;
+* <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_4/storyboard/#332-confusao-gerada-por-erro-nos-testes-do-udebug">Adição de mais storyboards</a>;
 * <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_5/avaliacao/storyboard/">Atualização da avaliação e do relato dos resultados considerando os novos storyboards</a>;
 * *Todas* as apresentações foram atualizadas para conter links com o que foi feito em cada entrega;
 * Adição de últimas atas de reuniões: <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/atas/reuniao_13/">13</a>, <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/atas/reuniao_13/">14</a>.
