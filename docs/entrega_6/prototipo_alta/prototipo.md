@@ -29,7 +29,7 @@
     <p align="center">Figura 5: Tela de Submissão.</p>
 </p>
 <p align="center">
-    <img align="center" src="https://media.discordapp.net/attachments/752587900377628756/778743237459312681/BancoDeProblemas_1.png">
+    <img align="center" src="https://media.discordapp.net/attachments/752587900377628756/778743238805815326/Usuario.png">
     <p align="center">Figura 6: Tela de Usuário.</p>
 </p>
 
