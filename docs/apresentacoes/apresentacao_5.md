@@ -8,6 +8,8 @@
 
 <p align="justify"> &emsp;&emsp; O grupo produziu vários documentos entre a apresentação 4 e a gravação da apresentação 5. Segue abaixo lista dos feitos nesse período:</p>
 
+### 2.1 Documentos requisitados para entrega
+
 * <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_5/avaliacao/storyboard/">Avaliação e relato dos resultados do storyboard</a>;
 * <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_5/avaliacao/analise_tarefas/">Avaliação e relato dos resultados da análise de tarefas</a>;
 * <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_5/prototipo_papel/prototipo_baixa/">Protótipo de Papel</a>;
@@ -24,3 +26,5 @@
 |11/11/2020|1.0|Criação do documento|Sérgio Cipriano|
 |11/11/2020|1.1|Gravação da apresentação|Sérgio Cipriano, Washington Bispo, Paulo Batista|
 |11/11/2020|1.2|Edição do vídeo|Washington Bispo|
+|18/11/2020|1.3|Revisão|Paulo|
+

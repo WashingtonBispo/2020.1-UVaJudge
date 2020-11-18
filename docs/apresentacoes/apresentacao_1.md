@@ -8,12 +8,17 @@
 
 <p align="justify"> &emsp;&emsp; O grupo produziu vários documentos entre o início do projeto e a gravação da apresentação. Segue abaixo lista de documentos feitos nesse período:</p>
 
-* Todos os 3 planejamentos individuais;
-* Todas as 3 avaliações individuais;
-* Cronograma de atividades;
-* Ferramentas utilizadas no projeto;
-* Porque escolhemos o UVa;
-* Processo de design;
+### 2.1 Documentos requisitados para entrega
+
+* Todos os 3 planejamentos individuais ([UVA](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_1/planejamentos_individuais/planejamento_uva/), [MangaLivre](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_1/planejamentos_individuais/planejamento_mangalivre/), [Poupa Tempo SP](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_1/planejamentos_individuais/planejamento_poupatemposp/));
+* Todas as 3 avaliações individuais ([UVA](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_1/avaliacoes_individuais/avaliacao_uva/), [MangaLivre](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_1/avaliacoes_individuais/avaliacao_mangalivre/), [Poupa Tempo SP](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_1/avaliacoes_individuais/avaliacao_poupatemposp/));
+* [Cronograma de atividades](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_1/cronograma_atividades/);
+* [Ferramentas utilizadas no projeto](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_1/ferramentas/);
+* [Porque escolhemos o UVa](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_1/porque_uva/);
+* [Processo de design](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_1/processo_design/);
+
+### 2.2 Documentos extra
+
 * Atas de reunião: 1-4;
 * Aba Sobre/README do projeto.
 
@@ -30,3 +35,4 @@
 |19/09/2020|1.1|Edição do vídeo|Washington Bispo|
 |20/09/2020|1.2|Criação do página no github pages|Sérgio Cipriano|
 |20/09/2020|1.3|Adição do vídeo|Washington Bispo|
+|18/11/2020|1.3|Revisão|Paulo|

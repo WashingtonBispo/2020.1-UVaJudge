@@ -8,10 +8,15 @@
 
 <p align="justify"> &emsp;&emsp; O grupo produziu vários documentos entre a apresentação 2 e a gravação da apresentação 3. Segue abaixo lista dos feitos nesse período:</p>
 
-* Características do UVa online judge
-* Guia de estilo
-* Metas de usabilidade
-* Princípios gerais
+### 2.1 Documentos requisitados para entrega
+
+* [Guia de estilo](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_3/guia_estilo/);
+* [Metas de usabilidade](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_3/metas_usabilidade/);
+* [Princípios gerais](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_3/metas_usabilidade/);
+
+### 2.2 Documentos extra
+
+* [Características do UVa online judge](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_3/caracteristicas_plataforma/);
 
 ## 3. Apresentação
 
@@ -24,3 +29,4 @@
 |14/10/2020|1.0|Gravação da apresentação|Sérgio Cipriano, Washington Bispo, Paulo Batista|
 |14/09/2020|1.1|Edição do vídeo|Washington Bispo|
 |14/09/2020|1.2|Criação do documento|Sérgio Cipriano|
+|18/11/2020|1.3|Revisão|Paulo|

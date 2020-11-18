@@ -8,12 +8,17 @@
 
 <p align="justify"> &emsp;&emsp; O grupo produziu vários documentos entre a apresentação 3 e a gravação da apresentação 4. Segue abaixo lista dos feitos nesse período:</p>
 
-* Novas entrevistas;
-* Atualizado o perfil de usuário;
-* Questionário 2;
-* Storyboard;
-* Planejamento da avalição;
-* Planejamento do teste-piloto.
+### 2.1 Documentos requisitados para entrega
+
+* [Storyboard](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_4/storyboard/);
+* [Planejamento da avalição](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_4/planejamento_avaliacao/);
+* [Planejamento do teste-piloto](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_4/planejamento_teste_piloto/).
+
+### 2.2 Documentos extra
+
+* [Novas entrevistas](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_4/entrevista/);
+* [Atualizado o perfil de usuário](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_2/perfil_usuario/);
+* [Questionário 2](https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_4/questionario2/);
 
 ## 3. Apresentação
 
@@ -26,3 +31,4 @@
 |28/10/2020|1.0|Gravação da apresentação|Sérgio Cipriano, Washington Bispo, Paulo Batista|
 |28/10/2020|1.1|Edição do vídeo|Washington Bispo|
 |28/10/2020|1.2|Criação do documento|Washington Bispo|
+|18/11/2020|1.3|Revisão|Paulo|
