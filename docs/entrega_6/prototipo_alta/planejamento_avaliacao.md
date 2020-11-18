@@ -1,4 +1,4 @@
-# Planejamento da avaliação do Protótipo de Alta Fidelidade
+# Planejamento da avaliação do protótipo de alta fidelidade
 
 ## 1. Contextualização
 
@@ -22,11 +22,11 @@
 
 <p align="justify"> &emsp;&emsp; Tendo concluído os objetivos definidos na etapa de apovação, resta novos objetivos que são particulares do protótipo de alta fidelidade:</p>
 
-1. O usuário consegue observar os detalhes de sua submissão?
-2. O usuário consegue reconhecer melhor o que é interativo?
-3. O usuário conseguiu saber se sua questão foi aceita?
-4. Qual é a diferença de reação desse prototipo para o de papel?
-5. Qual a opinião final a respeito do site, positivas ou negativas?
+6. O usuário consegue observar os detalhes de sua submissão?
+7. O usuário consegue reconhecer melhor o que é interativo?
+8. O usuário conseguiu saber se sua questão foi aceita?
+9. Qual é a diferença de reação desse prototipo para o de papel?
+10. Qual a opinião final a respeito do site, positivas ou negativas?
 
 ## 3. Metodologia
 
