@@ -14,12 +14,12 @@
 2. Eficiência: No storyboard <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_4/storyboard/#33-como-o-udebug-te-auxilia-na-correcao-da-sua-solucao">Como o UDebug te auxilia na correção da sua solução</a>, é apresentado como o uDebug é eficiente em auxiliar o usuário a debugar seu código;
 3. Segurança: Em nenhum storyboard foi abordado segurança;
 4. Utilidade: Como mostrado no storyboard <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_4/storyboard/#31-buscando-uma-questao-especifica-no-banco-de-questoes">Buscando uma questão específica no banco de questões</a>, o UVa não fornece um sistema de busca que é extremamente necessário para o usuário;
-5. Aprendizagem: No storyboard <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_4/storyboard/#32-motivacoes-para-utilizar-o-uva">Motivações para utilizar o UVa</a> mostra de forma sutil essa meta;
+5. Aprendizagem: No storyboard <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_4/storyboard/#32-motivacoes-para-utilizar-o-uva">Motivações para utilizar o UVa</a> mostra de forma sutil essa meta. Além disso, foi adicionado o storyboard <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_4/storyboard/#332-confusao-gerada-por-erro-nos-testes-do-udebug">Confusão gerada por erro nos testes do uDebug</a> detalhando melhor a aprendizagem;
 6. Memorização: Em nenhum storyboard foi abordado memorização;
 
 ### 2.2 Relato dos resultados
 
-<p align="justify"> &emsp;&emsp; Os storyboards ainda não abordam todas as metas de usabilidade. Por mais que não seja obrigatório, caso abordássemos todas, o conjunto de storyboards ofereceria uma quantidade enriquecedora de informações. Dito isso, é preciso abordar segurança, memorização e aprendizagem (essa que já foi abordada, mas apenas de forma sutil).</p>
+<p align="justify"> &emsp;&emsp; Os storyboards ainda não abordam todas as metas de usabilidade. Por mais que não seja obrigatório, caso abordássemos todas, o conjunto de storyboards ofereceria uma quantidade enriquecedora de informações. Dito isso, é preciso abordar segurança e memorização.</p>
 
 ## 3. Objetivos da avaliação
 
@@ -115,10 +115,11 @@ Correção possível:    Filtrar melhor contribuições de novas informações.
 
 <p align="justify"> &emsp;&emsp; Por fim, é importante notar que, além de ajudar na documentação e diagnóstico de erros, os storyboards também apresentam comportamentos do usuário que ainda não haviam sido documentados. Exemplo disso é no storyboard <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_4/storyboard/#31-buscando-uma-questao-especifica-no-banco-de-questoes">Buscando uma questão específica no banco de questões</a>, que é visível assim que ocorrer um descaso do sistema com o usuário, esse poderá optar por abandonar o sistema em questão e optar pelos concorrentes.</p>
 
-## 5. Versionamento
+## 6. Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |09/11/2020|1.0|Criação da versão inicial do documento com os tópicos 1, 2, 3 e 4|Sérgio Cipriano|
 |10/11/2020|1.1|Análises heurísticas efetuadas|Sérgio Cipriano|
-|10/11/2020|1.1|Fundindo os documentos de avaliação e relato de resultados em um só|Sérgio Cipriano|
+|10/11/2020|2.0|Fundindo os documentos de avaliação e relato de resultados em um só|Sérgio Cipriano|
+|18/11/2020|3.0|Atualizando documento para considerar novos storyboards|Sérgio Cipriano|

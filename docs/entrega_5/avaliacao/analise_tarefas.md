@@ -181,7 +181,7 @@ Correção possível: Colocar mais maneiras de falar com eles.
 
 ### 4.1 Relato dos resultados
 
-<p align="justify"> &emsp;&emsp; Nessa avaliação o objetivo era catalogar quantos e quais erros eram possíveis de averiguar pelo storyboard. Como demonstrado, foram catalogados erros semelhantes aos encontrados na <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_1/avaliacoes_individuais/avaliacao_uva/">primeira avaliação do UVa</a> tal como ocorreu no relato dos resultados do storyboard.</p>
+<p align="justify"> &emsp;&emsp; Nessa avaliação o objetivo era catalogar quantos e quais erros eram possíveis de averiguar pelo análise de tarefas. Como demonstrado, foram catalogados erros semelhantes aos encontrados na <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_1/avaliacoes_individuais/avaliacao_uva/">primeira avaliação do UVa</a> tal como ocorreu no relato dos resultados do storyboard.</p>
 
 <p align="justify"> &emsp;&emsp; Entretanto, diferente do que ocorreu na avaliação do storyboard, nessa avaliação foi possível catalogar erros de todas as 10 heurísticas. Assim, é possível chegar a dois entendimentos: (i) As análises de tarefas agregam dados essenciais no reconhecimento de erros do UVa, (ii) e esse resultado valida a visão de adicionar novos storyboards (visão essa que foi abordada <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge//entrega_5/avaliacao/storyboard/#22-relato-dos-resultados">aqui</a>)</p>
 

@@ -50,14 +50,15 @@ nav:
                 - Análise de Tarefas: entrega_5/avaliacao/analise_tarefas.md
         - Nível 2:
             - Protótipo de Papel:
-                - Protótipo de Papel de Baixa Fidelidade: entrega_5/prototipo_papel/prototipo_baixa.md
+                - Protótipo de Papel de Baixa Fidelidade: entrega_5/prototipo_papel/prototipo.md
                 - Planejamento da Avaliação: entrega_5/prototipo_papel/planejamento_avaliacao.md
-                - Avaliação e Relato dos Resultados: entrega_6/prototipo_papel/planejamento_relato.md
+                - Avaliação e Relato dos Resultados: entrega_6/prototipo_papel/avaliacao_relato.md
                 - Teste Piloto: entrega_6/teste_piloto.md
         - Nível 3:
-            - Protótipo de Papel:
-                - Protótipo de Papel de Alta Fidelidade: entrega_6/prototipo_papel/prototipo_alta.md
-                - Planejamento da Avaliação: entrega_6/prototipo_papel/planejamento_avaliacao.md
+            - Protótipo Final:
+                - Protótipo de Alta Fidelidade: entrega_6/prototipo_alta/prototipo.md
+                - Planejamento da Avaliação: entrega_6/prototipo_alta/planejamento_avaliacao.md
+                - Avaliação e Relato dos Resultados: entrega_6/prototipo_alta/avaliacao_relato.md
     - Atas das reuniões:
         - Reunião 1: atas/reuniao_1.md
         - Reunião 2: atas/reuniao_2.md
@@ -72,6 +73,7 @@ nav:
         - Reunião 11: atas/reuniao_11.md
         - Reunião 12: atas/reuniao_12.md
         - Reunião 13: atas/reuniao_13.md
+        - Reunião 14: atas/reuniao_14.md
     - Apresentações:
         - Apresentação 1: apresentacoes/apresentacao_1.md
         - Apresentação 2: apresentacoes/apresentacao_2.md

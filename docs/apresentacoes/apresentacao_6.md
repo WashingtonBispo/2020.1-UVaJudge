@@ -10,14 +10,16 @@
 
 ### 2.1 Documentos requisitados para entrega
 
-* <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_6/prototipo_papel/planejamento_relato/">Avaliação e relato dos resultados do protótipo de baixa fidelidade</a>;
-* <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_6/prototipo_papel/prototipo_alta/">Protótipo de alta fidelidade</a>;
+* <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_6/prototipo_papel/avaliacao_relato/">Avaliação e relato dos resultados do protótipo de baixa fidelidade</a>;
+* <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_6/prototipo_alta/prototipo/">Protótipo de alta fidelidade</a>;
 * <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_6/prototipo_papel/planejamento_avaliacao/">Planejamento da Avaliação e relato dos resultados do protótipo de alta fidelidade</a>;
+* <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_6/prototipo_alta/avaliacao_relato/">Avaliação e relato dos resultados do protótipo de alta fidelidade</a>.
 
-### 2.2 Documentos extra
+### 2.2 Documentos extras
 
 * <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_6/teste_piloto/">Teste Piloto</a>;
-* <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_6/">Adição de mais storyboards</a>;
+* <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_4/storyboard/">Adição de mais storyboards</a>;
+* <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_5/avaliacao/storyboard/">Atualização da avaliação e do relato dos resultados considerando os novos storyboards</a>;
 * *Todas* as apresentações foram atualizadas para conter links com o que foi feito em cada entrega;
 * Adição de últimas atas de reuniões: <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/atas/reuniao_13/">13</a>, <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/atas/reuniao_13/">14</a>.
 
@@ -31,4 +33,5 @@
 |:-:|:-:|:-:|:-:|
 |17/11/2020|1.0|Criação do documento|Sérgio Cipriano|
 |18/11/2020|1.1|Gravação da apresentação|Sérgio Cipriano, Washington Bispo, Paulo Batista|
-|18/11/2020|1.2|Edição do vídeo|Washington Bispo|
+|18/11/2020|1.2|Adição de novos links e documentos|Sérgio Cipriano|
+|18/11/2020|1.3|Edição do vídeo|Washington Bispo|
