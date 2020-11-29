@@ -4,7 +4,12 @@
 
 <p align="justify"> &emsp;&emsp; O protótipo de papel é baseado nos conceitos e grids criados no <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_3/guia_estilo/#31-disposicao-espacial-e-grid">guia de estilo</a>. Esses protótipos serão utilizados para facilitar a comunicação entre os membros da equipe e será a ferramenta principal para o teste-piloto.</p>
 
-## 2. Protótipo de papel
+## 2. Motivos
+
+&emsp;&emsp; Durante as nossas avaliações e no guia de estilo, definimos problemas que o UVa apresenta. O principal problema relatado é o de uma falta de categorias, sendo assim a alma do protótipo de papel está no desenvolvimento de uma aba em que o foco seja apresentar um sistema de organização de questões. Nesse protótipo foi realizada uma análise por metas de usabilidade, avaliações heurísticas e testes pilotos. Dentro de cada documento em questão está explicado como, porquê e para que realizamos e escolhemos cada teste.
+
+## 3. Protótipo de papel
+
 <p align="justify"> &emsp;&emsp; Uma pequena versão funcional encontra-se nesse <a href="https://www.figma.com/proto/xjI2GD8zXd9QJndJ5nURmS/Untitled?node-id=1%3A2&scaling=min-zoom">link</a></p>
 <p align="center">
     <img align="center" src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.1-UVaJudge/master/docs/assets/prototipo_papel/login.jpeg">
@@ -27,11 +32,11 @@
     <p align="center">Figura 5: Tela para realizar submissão.</p>
 </p>
 
-## 3. Bibliografia
+## 4. Bibliografia
 
 <p align="justify"> &emsp;&emsp; BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.</p>
 
-## 4. Versionamento
+## 5. Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
@@ -39,3 +44,4 @@
 |11/11/2020|1.1|Criação do protótipo de papel|Washington Bispo|
 |11/11/2020|1.2|Preenchimento de todos os campos do documento|Sérgio Cipriano|
 |11/11/2020|1.3|Arrumando as imagens e colocando o prototipo|Washington Bispo|
+|27/11/2020|1.4|Adicionando justificativa|Sérgio Cipriano|

@@ -28,14 +28,14 @@ nav:
                 - Planejamento da avaliação: entrega_1/planejamentos_individuais/planejamento_poupatemposp.md
                 - Avaliação: entrega_1/avaliacoes_individuais/avaliacao_poupatemposp.md
         - Ferramentas: entrega_1/ferramentas.md
-    - Análise do Perfil de Usuário:
-        - Personas: entrega_2/personas.md
-        - Análise de tarefas: entrega_2/analise_tarefas.md
-        - Questionário 1: entrega_2/questionario.md
-        - Questionário 2: entrega_4/questionario2.md
-        - Entrevista: entrega_4/entrevista.md
-        - Perfil de usuário: entrega_2/perfil_usuario.md
     - Análise de requisitos:
+        - Análise do Perfil de Usuário:
+            - Personas: entrega_2/personas.md
+            - Análise de tarefas: entrega_2/analise_tarefas.md
+            - Questionário 1: entrega_2/questionario.md
+            - Questionário 2: entrega_4/questionario2.md
+            - Entrevista: entrega_4/entrevista.md
+            - Perfil de usuário: entrega_2/perfil_usuario.md
         - Princípios e diretrizes do projeto: entrega_3/principios_gerais.md
         - Características da Plataforma: entrega_3/caracteristicas_plataforma.md
         - Metas de Usabilidade: entrega_3/metas_usabilidade.md
@@ -53,12 +53,12 @@ nav:
                 - Protótipo de Papel de Baixa Fidelidade: entrega_5/prototipo_papel/prototipo.md
                 - Planejamento da Avaliação: entrega_5/prototipo_papel/planejamento_avaliacao.md
                 - Avaliação e Relato dos Resultados: entrega_6/prototipo_papel/avaliacao_relato.md
-                - Teste Piloto: entrega_6/teste_piloto.md
         - Nível 3:
             - Protótipo Final:
                 - Protótipo de Alta Fidelidade: entrega_6/prototipo_alta/prototipo.md
                 - Planejamento da Avaliação: entrega_6/prototipo_alta/planejamento_avaliacao.md
                 - Avaliação e Relato dos Resultados: entrega_6/prototipo_alta/avaliacao_relato.md
+            - Teste Piloto: entrega_6/teste_piloto.md
     - Atas das reuniões:
         - Reunião 1: atas/reuniao_1.md
         - Reunião 2: atas/reuniao_2.md
@@ -74,6 +74,7 @@ nav:
         - Reunião 12: atas/reuniao_12.md
         - Reunião 13: atas/reuniao_13.md
         - Reunião 14: atas/reuniao_14.md
+        - Reunião 15: atas/reuniao_15.md
     - Apresentações:
         - Apresentação 1: apresentacoes/apresentacao_1.md
         - Apresentação 2: apresentacoes/apresentacao_2.md
@@ -81,3 +82,4 @@ nav:
         - Apresentação 4: apresentacoes/apresentacao_4.md
         - Apresentação 5: apresentacoes/apresentacao_5.md
         - Apresentação 6: apresentacoes/apresentacao_6.md
+        - Apresentação 7: apresentacoes/apresentacao_7.md

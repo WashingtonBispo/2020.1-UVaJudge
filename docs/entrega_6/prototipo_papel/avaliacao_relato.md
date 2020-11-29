@@ -108,9 +108,14 @@ Correção Possível:    Necessita de uma janela de ajuda.
 
 <p align="justify"> &emsp;&emsp; Nessa avaliação o objetivo era catalogar quantos e quais erros eram possíveis de averiguar pelo protótipo de papel. Como demonstrado, foram corrigidos a grande maioria dos erros encontrados na <a href="https://interacao-humano-computador.github.io/2020.1-UVaJudge/entrega_1/avaliacoes_individuais/avaliacao_uva/">primeira avaliação do UVa</a>. É possível notar que o principal erro é no suporte ao usuário, não está disponível nenhuma aba específica para tal atividade.</p>
 
-## 5. Versionamento
+## 5. Bibliografia
+
+<p align="justify"> &emsp;&emsp; BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.</p>
+
+## 6. Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |17/11/2020|1.0|Criação dos tópicos 1, 2, 3 e 4|Sérgio Cipriano|
 |18/11/2020|2.0|Adição de avaliações e relatos|Sérgio Cipriano|
+|27/11/2020|2.1|Adição de bibliografia|Sérgio Cipriano|

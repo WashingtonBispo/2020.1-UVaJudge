@@ -6,7 +6,11 @@
 
 <p align="justify"> &emsp;&emsp; Infelizmente, por se tratar de tempos de pandemia, nosso acesso à usuários foi por meio de vídeo chamadas. Assim, conseguimos entrevistar apenas aqueles que tinhamos contato prévio.</p>
 
-## 2. Perguntas
+## 2. Motivos
+
+&emsp;&emsp; A técnica de entrevistas é uma boa maneira de coletar informações detalhadas e profundas de usuários individuais.
+
+## 3. Perguntas
 
 <p align="justify"> &emsp;&emsp; Foram criadas um número variado de perguntas para diversos tipos de usuário. Sendo assim, conforme o desenrolar da entrevista, algumas perguntas foram retiradas pois já não se adequavam ao contexto do entrevistado. Por fim, não será exposto aqui o nome de nenhum entrevistado por questões de privacidade. Segue abaixo todas as perguntas:</p>
 
@@ -24,11 +28,11 @@
 12. Quais suas principais atividades no UVa? Você já experienciou alguma dificuldade, barreira ou problema enquanto às fazia?
 13. Você ainda usa o UVA?
 
-## 3. Entrevistas
+## 4. Entrevistas
 
 <p align="justify"> &emsp;&emsp; Por questões de privacidade foram ocultados os nomes de todos os entrevistados.</p>
 
-### 3.1 Entrevistado 1
+### 4.1 Entrevistado 1
 
 |Pergunta|Resposta|
 |:-:|:-:|
@@ -46,7 +50,7 @@
 |12|Resolver questões. Sim|
 |13|Não|
 
-### 3.2 Entrevistado 2
+### 4.2 Entrevistado 2
 
 |Pergunta|Resposta|
 |:-:|:-:|
@@ -64,7 +68,7 @@
 |12|Estudar algoritmos de programação competitiva. Sim|
 |13|Não|
 
-### 3.3 Entrevistado 3
+### 4.3 Entrevistado 3
 
 |Pergunta|Resposta|
 |:-:|:-:|
@@ -82,7 +86,7 @@
 |12|Eu respondia questões de lá. Senti dificuldades em achar questões específicas|
 |13|Não|
 
-### 3.4 Entrevistado 4
+### 4.4 Entrevistado 4
 
 |Pergunta|Resposta|
 |:-:|:-:|
@@ -100,7 +104,7 @@
 |12|Resolver questões do CP3,  tive problemas com login algumas vezes. Nem sempre a ferramenta de recuperar senha funcionou comigo|
 |13|Sim|
 
-### 3.5 Entrevistado 5
+### 4.5 Entrevistado 5
 
 |Pergunta|Resposta|
 |:-:|:-:|
@@ -119,10 +123,11 @@
 |13|Sim|
 
 
-## 4. Versionamento
+## 5. Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |02/10/2020|1.0|Criação das 3 entrevistas e introdução|Paulo Batista|
 |04/10/2020|1.1|Correções na formatação|Sérgio Cipriano|
 |17/10/2020|2.0|Refazendo perguntas para termos resultados de maior qualidade|Sérgio Cipriano|
+|27/11/2020|2.1|Adicionando motivos e justificativas|Sérgio Cipriano e Washington Bispo|

@@ -6,9 +6,9 @@
 
 <p align="justify"> &emsp;&emsp; O objetivo ao criar o storyboard é demonstrar uma siplificação de todo o processo, de forma que possa ser observado certas nuances, tais como: quais pessoas vão ser os personagens envolvidos, do ambiente que o sistema vai ser utilizado, o que o sistemas vai fazer, os passos necessários e etc.</p>
 
-## 2. Objetivos
+## 2. Objetivos e Motivos
 
-<p align="justify"> &emsp;&emsp; Este documento tem como intuito apresentar os frutos obtidos ao longo da produção do storyboard</p>
+&emsp;&emsp; Este documento tem como intuito apresentar os frutos obtidos ao longo da produção do storyboard. Ele foi optado por ser uma maneira simples de se fazer com que seja passado uma ideais, de forma que possa ser despendido pouco tempo para que uma outra forma de demonstrar uma ideia seja visualizada.
 
 ## 3. Storyboards
 
@@ -69,3 +69,4 @@ BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora
 |27/10/2020|2.0|Tópicos 1, 2, 3.2, 3.3 e 4|Washington Bispo|
 |28/10/2020|2.1|Arrumando formatação do tópico 3.2 |Washington Bispo|
 |18/11/2020|3.0|Adicionando novas versões de storyboards: 3.3.2|Sérgio Cipriano|
+|27/11/2020|3.1|Adição de motivos no tópico 2|Sérgio Cipriano e Washington Bispo|
