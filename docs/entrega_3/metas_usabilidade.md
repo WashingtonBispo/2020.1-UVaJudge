@@ -4,7 +4,13 @@
 
 <p align="justify"> &emsp;&emsp; As metas de usabilidade ajudam a resolver problemas com a produtividade do usuário durante a utilização e aprendizagem do sistema. Sendo assim, faremos uma análise por metas de usabilidade visando conhecer melhor as dificuldades enfrentadas pelo usuário.</p>
 
-## 2. Usabilidade do UVa
+## 2. Motivos
+
+&emsp;&emsp; "A definição das metas de usabilidade envolve definir os fatores de qualidade de uso que devem ser priorizados no projeto, como serão avaliados ao longo do processo de design, e quais faixas de valores são inaceitáveis, aceitáveis e ideais para cada indicador de interesse"(Barbosa e Silva, 2019, p. 106).
+
+&emsp;&emsp; "Usabilidade refere-se a garantir que produtos interativos são fáceis de aprender, efetivas de usar e agrádavel pela perspectiva do usuário. Envolve otimizar as interações que as pessoas têm com produtos interativos para permitir que eles realizem suas atividades no trabalho, na escola e no seu dia a dia" (Sharp, Rogers, Preece, 2019).
+
+## 3. Usabilidade do UVa
 
 <p align="justify"> &emsp;&emsp; De acordo com Jakob Nielsen (1993), existem 6 metas de usabilidade, elas são: eficácia, eficiência, segurança, utilidade, aprendizagem e memorização. Segue abaixo uma avaliação do site UVa baseada nessas metas de usabilidade.</p>
 
@@ -15,7 +21,8 @@
 5. Aprendizagem: o sistema apresenta muitos recursos úteis, mas é difícil se guiar pelo banco de questões devido a ausência de tags e classificações.
 6. Memorização: não existem barreiras que dificultem voltar a usar o sistema. Até porque, esse recebe poucas atualizações.
 
-## 3. Objetivos da avaliação
+## 4. Objetivos da avaliação
+
 <p align="justify"> &emsp;&emsp; Para complementar a análise anterior, serão respondidas um conjunto de perguntas para definir claramente os objetivos da avaliação. Essas que servirão de guia para entender melhor o próprio UVa em si. Segue abaixo os objetivos e suas respostas.</p>
 
 1. De que maneira o sistema separa os problemas? Separa por meio de eventos, livros e volumes.
@@ -25,14 +32,14 @@
 5. O usuário entende o que os volumes significam? Nenhum volume é classificado e são separados por números. Não existe legenda, logo, para saber sobre do que se trata aquele volume de questões é preciso lê-las.
 6. Qual alternativa é mais eficiente: categorias ou volumes? Categorias costumam dizer por si só sobre o que é uma questão. Mesmo adicionando uma legenda aos volumes, ainda seria uma barreira a mais que o usuário precisaria passar apenas para ver o contexto da questão. O fato é que o sistema atual é pior do que ambas as alternativas citadas acima. No guia de estilo é apresentado uma alternativa por meio de categorias, para mais detalhes olhar Figura 3 do guia de estilo.
 
-## 4. Bibliografia
+## 5. Bibliografia
 
 <p align="justify"> &emsp;&emsp; BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.</p>
 
-## 5. Versionamento
+## 6. Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |13/10/2020|1.0|Criação do documento|Sérgio Cipriano|
 |14/10/2020|1.1|Deletando informações desnecessárias e complementando análise com objetivos|Sérgio Cipriano|
-|14/10/2020|1.1|Deletando informações desnecessárias e complementando análise com objetivos|Sérgio Cipriano|
+|27/11/2020|1.2|Adicionando motivos e justificativas|Sérgio Cipriano e Washington Bispo|

@@ -27,7 +27,7 @@
 
 1. Divulgação das respostas obtidas;
 2. Divulgação da gravação da entrevista (áudio e vídeo);
-3. Duração de média de 25 minutos;
+3. Duração de até 10 minutos;
 4. Disponibilização da gravação para o youtube em formato não-listado (apenas aqueles com link podem acessar o conteúdo).
 
 <p align="justify"> &emsp;&emsp; Por fim, é importante ressaltar que nossos objetivos são exclusivamente acadêmicos e sem nenhum fim lucrativo. Desse modo, caso esteja de acordo com tudo que foi estabelecido aqui, o participante deverá dizer ao ínicio da gravação "Eu li e concordo com o termo de consentimento".</p>
@@ -73,3 +73,4 @@
 |26/10/2020|1.0|Criando introdução e metodologia|Sérgio Cipriano|
 |27/10/2020|2.0|Criando termo, perguntas, tarefas e adicionando bibliografia|Sérgio Cipriano|
 |09/11/2020|3.0|Aprimorando seções 1, 2 e 3 baseado no feedback do professor e dos monitores|Sérgio Cipriano|
+|27/11/2020|3.1|Alteração na duração da entrevista média do termo de consentimento|Sérgio Cipriano|
