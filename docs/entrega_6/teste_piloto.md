@@ -29,12 +29,13 @@
 7. Você já participou de alguma maratona de programação como competidor?
 8. Você já participou de alguma maratona de programação como voluntário(entregar balões, criar questões, criar soluções prévias)?
 9. Você já utilizou algum site de programação para resolver questões? Se sim, quais?
-10. Você conhece o site UVA? Se sim, por onde conheceu? 
+10. Você conhece o site UVA?
 11. Qual foi a sua primeira impressão do UVA?
-12. Quais suas principais atividades no UVa? Você já experienciou alguma dificuldade, barreira ou problema enquanto às fazia?
-13. Você ainda usa o UVA?
-14. Qual foi a última vez que utilizou o UVa?
-15. Porque você usa o UVa? (Porque você não usa o UVa?)
+12. Quais suas principais atividades no UVa? 
+13. Você já experienciou alguma dificuldade, barreira ou problema enquanto às fazia?
+14. Você ainda usa o UVA?
+15. Qual foi a última vez que utilizou o UVa?
+16. Porque você usa o UVa? (Porque você não usa o UVa?)
 
 ## 5. Testes Piloto
 
@@ -90,17 +91,21 @@ Uma mistura de muito útil e muito confuso.
 ```
 12. Quais suas principais atividades no UVa?
 ```
-Você já experienciou alguma dificuldade, barreira ou problema enquanto às fazia? Resolver questões do CP3, encontrei um problema em um caso de teste disponibilizado erroneamente no uDebug.
+Resolver questões do CP3.
 ```
-13. Você ainda usa o UVA?
+13. Você já experienciou alguma dificuldade, barreira ou problema enquanto às fazia?
+```
+encontrei um problema em um caso de teste disponibilizado erroneamente no uDebug. 
+```
+14. Você ainda usa o UVA?
 ```
 Sim, muito raramente.
 ```
-14. Qual foi a última vez que utilizou o UVa?
+15. Qual foi a última vez que utilizou o UVa?
 ```
 Há 3 meses atrás.
 ```
-15. Porque você usa o UVa?
+16. Porque você usa o UVa?
 ```
 Melhor site para se acompanhar com o livro CP3.
 ```
