@@ -44,7 +44,7 @@
 | Habilidades: | Força de vontade, bastante inteligente e sabe falar 3 línguas(português, alemão e inglês) |
 | Relacionamentos: | Solteiro |
 | Tarefas: | Resolver as questões designadas e procurar novas possíveis questões e procurar editoriais quando não resolver |
-| Expectativas: | Que o site possua tenha uma boa correção e bons casos de testes |
+| Expectativas: | Que o site possua uma boa correção e bons casos de testes |
 
 ### 3.3 Persona 3
 

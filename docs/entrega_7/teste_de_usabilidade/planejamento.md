@@ -8,11 +8,17 @@
 
 ## 2. Objetivos
 
-&emsp;&emsp; Com esse método de avaliação queremos observar como um usuário faria uso do site utilizando a interface proposta por nós, além disso, é bom para entender a mentalidade que os usuários iriam desenvolver ao longo do uso. Com isso podemos resumir nossos objetivos numa breve lista:
+&emsp;&emsp; Com esse método de avaliação queremos observar como um usuário faria uso do site utilizando a interface proposta por nós, além disso, é bom para entender a mentalidade que os usuários iriam desenvolver ao longo do uso. Com isso podemos resumir nossos objetivos numa breve lista de perguntas que deve ser respondida:
 
-* Observar o uso do protótipo de alta fidelidade;
-* Checar se o protótipo falha em alguma diretriz de usabilidade;
-* Anotar alguns detalhes adicionais que foi observado ao longo do percurso.
+1. O usuário consegue navegar com facilidade pelo site?
+2. Ao longo da sua estadia, suas emoções foram positivas?
+3. O usuário conseguiu simular uma submissão real no protótipo?
+4. Qual o tempo médio que o usuário demora para realizar a tarefa?
+5. Alguma falha de usabilidade foi encontrada?
+6. O usuário consegue observar os detalhes de sua submissão?
+7. O usuário consegue reconhecer melhor o que é interativo?
+8. O usuário conseguiu saber se sua questão foi aceita? 
+9. Qual a opinião final a respeito do site, positivas ou negativas? 
 
 ## 3. Metodologia
 
@@ -54,14 +60,11 @@
 5. Obeservar o perfil do usuário.
 6. Deslogar do UVa.
 
-## 7. Relato dos Resultados
-
-
-## 8. Bibliografia
+## 7. Bibliografia
 
 <p align="justify"> &emsp;&emsp; BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.</p>
 
-## 9. Versionamento
+## 8. Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|

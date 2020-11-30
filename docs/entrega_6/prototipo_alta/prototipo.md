@@ -6,7 +6,8 @@
 
 ## 2. Protótipo de alta fidelidade
 
-<a href="https://www.figma.com/proto/WdhBwMGY9KMIELaV0DecXF/IHC-uva?scaling=min-zoom&node-id=2%3A2">Link para o Protótipo de Alta Fidelidade</a>
+&emsp;&emsp; Coloque em fullscream para ter acesso à barra superior.
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FWdhBwMGY9KMIELaV0DecXF%2FIHC-uva%3Fnode-id%3D2%253A2%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
 <p align="center">
     <img align="center" src="https://media.discordapp.net/attachments/752587900377628756/778743232439255070/Tela_Login.png">

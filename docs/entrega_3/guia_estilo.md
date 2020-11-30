@@ -143,7 +143,7 @@ No UVa, todas as páginas possuem como padrão uma barra lateral à esquerda.
 
 ### 6.3 Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
 
-<p align="justify"> &emsp;&emsp; O site não cria sequência de diálogo, de forma que a única maneira de ver o feedback de uma submissão é indo até a aba "My submissions". Além disso caso haja algum erro na submissão (como o envio de uma imagem por engano) o site redireciona para uma aba de erro como mostrado na parte 5.3 desse documento.</p>
+<p align="justify"> &emsp;&emsp; O site não cria sequência de diálogo, de forma que a única maneira de ver o feedback de uma submissão é indo até a aba "My submissions". Além disso caso haja algum erro na submissão (como o envio de uma imagem por engano) o site redireciona para uma aba de erro.</p>
 
 ## 7. Bibliografia
 

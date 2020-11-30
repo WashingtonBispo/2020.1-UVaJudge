@@ -65,6 +65,12 @@ nav:
                 - Patrick: entrega_7/teste_de_usabilidade/patrick.md
                 - Eduarda: entrega_7/teste_de_usabilidade/eduarda.md
                 - Relato dos Resultados: entrega_7/teste_de_usabilidade/relato.md
+    - Verificação:
+        - Personas: entrega_7/verificacao/personas.md
+        - Guia de Estilo: entrega_7/verificacao/guia_de_estilo.md
+        - Metas de Usabilidade: entrega_7/verificacao/metas_de_usabilidade.md
+        - Storyboard: entrega_7/verificacao/storyboard.md
+        - Protótipo de Alta Fidelidade: entrega_7/verificacao/prototipo_alta.md
     - Atas das reuniões:
         - Reunião 1: atas/reuniao_1.md
         - Reunião 2: atas/reuniao_2.md
